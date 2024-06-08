@@ -1,0 +1,59 @@
+{
+    "screen": {
+        "width": 300,
+        "height": 600
+    },
+    "colors": {
+        "white": [255, 255, 255],
+        "black": [0, 0, 0],
+        "red": [255, 0, 0],
+        "green": [0, 255, 0],
+        "light_gray": [200, 200, 200]
+    },
+    "grid": {
+        "width": 10,
+        "height": 20,
+        "cell_size": 30
+    },
+    "shapes": [
+        [[1, 1, 1], [0, 1, 0]],
+        [[1, 1], [1, 1]],
+        [[1, 1, 1, 1]],
+        [[1, 1, 0], [0, 1, 1]],
+        [[0, 1, 1], [1, 1, 0]],
+        [[1, 1, 1], [1, 0, 0]],
+        [[1, 1, 1], [0, 0, 1]]
+    ],
+    "shape_colors": [
+        [0, 255, 255],
+        [255, 255, 0],
+        [128, 0, 128],
+        [255, 0, 0],
+        [0, 255, 0],
+        [255, 165, 0],
+        [0, 0, 255]
+    ],
+    "phrases": {
+        "en": [
+            "Great job!", "Keep going!", "You're doing amazing!", "Fantastic!", "You're unstoppable!",
+            "Keep up the good work!", "Impressive!", "Way to go!", "Excellent!", "You're on fire!",
+            "Awesome!", "Keep it up!", "You're a star!", "Amazing work!", "Outstanding!",
+            "You're crushing it!", "Brilliant!", "You're incredible!", "Superb!", "You're rocking it!"
+        ],
+        "pt": [
+            "Ótimo trabalho!", "Continue assim!", "Você está indo muito bem!", "Fantástico!", "Você é imparável!",
+            "Continue com o bom trabalho!", "Impressionante!", "Muito bem!", "Excelente!", "Você está arrasando!",
+            "Incrível!", "Continue firme!", "Você é uma estrela!", "Trabalho incrível!", "Extraordinário!",
+            "Você está mandando bem!", "Brilhante!", "Você é incrível!", "Soberbo!", "Você está arrasando!"
+        ]
+    },
+    "file_paths": {
+        "background_music": "music/background_music.mp3",
+        "bg_language": "images/language_selection_screen.png",
+        "bg_title": "images/title_screen.png",
+        "bg_instructions": "images/instructions_screen.png",
+        "bg_game": "images/game_screen.png",
+        "bg_game_over": "images/game_over_screen.png",
+        "bg_win": "images/win_screen.png"
+    }
+}
