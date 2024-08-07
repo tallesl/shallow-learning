@@ -1,3 +1,7 @@
+**Articles**
+
+- [Distill](https://distill.pub/)
+
 **Courses**
 
 - [Machine Learning Crash Course (Google for Developers)](https://developers.google.com/machine-learning/crash-course)
@@ -5,6 +9,7 @@
 
 **Datasets**
 
+- [Common Crawl](https://commoncrawl.org/latest-crawl)
 - [DBpedia (Wikipedia)](https://databus.dbpedia.org/dbpedia/collections/latest-core)
 - [Form Understanding in Noisy Scanned Documents](https://guillaumejaume.github.io/FUNSD/)
 - [Ngram (Wikipedia)](https://nlp.cs.nyu.edu/wikipedia-data/)
