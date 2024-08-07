@@ -2,6 +2,13 @@
 
 - [Distill](https://distill.pub/)
 
+**Code**
+
+- [MNIST Keras tutorial](https://keras.io/getting_started/intro_to_keras_for_engineers/)
+- [anything-llm/collector/processSingleFile/convert/](https://github.com/Mintplex-Labs/anything-llm/tree/master/collector/processSingleFile/convert)
+- [def seed_everything](https://github.com/ai-forever/ru-dalle/blob/e96631a/rudalle/utils.py#L10-L17)
+- [fast.ai image classification tutorial](https://www.youtube.com/watch?v=k1GIEkzQ8qc)
+
 **Courses**
 
 - [Machine Learning Crash Course (Google for Developers)](https://developers.google.com/machine-learning/crash-course)
