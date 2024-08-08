@@ -57,6 +57,11 @@
 - [What is the "dying ReLU" problem in neural networks?](https://datascience.stackexchange.com/questions/5706/what-is-the-dying-relu-problem-in-neural-networks)
 - [Why did Marvin Minsky claim the multilayer perceptron wasn’t likely going to work?](https://www.quora.com/Why-did-Marvin-Minsky-claim-the-multilayer-perceptron-wasn-t-likely-going-to-work-without-giving-much-evidence-Is-isn-t-intuitvely-obvious-that-multilayer-perceptron-could-overcome-the-limitations-of-single-layer)
 
+**Structured output**
+
+- [llama.cpp formal grammar](https://github.com/ggerganov/llama.cpp/blob/master/grammars/README.md)
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines)
+
 **Tokenization**
 
 - [BPE pseudocode](http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM#0045_0026)
@@ -66,6 +71,7 @@
 
 **Tools**
 
+- [LMQL (programming language for LLMs)](https://github.com/eth-sri/lmql)
 - [PyOxidizer (executable with embedded Python)](https://github.com/indygreg/PyOxidizer)
 - [TensorFlow Playground](http://playground.tensorflow.org/)
 - [marimo (git-friendly notebook)](https://marimo.io/)
