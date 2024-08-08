@@ -47,6 +47,12 @@
 - [aijobs.net](https://aijobs.net/)
 - [deep learning on arc.dev](https://arc.dev/remote-jobs/deep-learning)
 
+**Questions**
+
+- [How to check for dead relu neurons](https://datascience.stackexchange.com/questions/18810/how-to-check-for-dead-relu-neurons)
+- [What is the "dying ReLU" problem in neural networks?](https://datascience.stackexchange.com/questions/5706/what-is-the-dying-relu-problem-in-neural-networks)
+- [Why did Marvin Minsky claim the multilayer perceptron wasn’t likely going to work?](https://www.quora.com/Why-did-Marvin-Minsky-claim-the-multilayer-perceptron-wasn-t-likely-going-to-work-without-giving-much-evidence-Is-isn-t-intuitvely-obvious-that-multilayer-perceptron-could-overcome-the-limitations-of-single-layer)
+
 **Tokenization**
 
 - [BPE pseudocode](http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM#0045_0026)
