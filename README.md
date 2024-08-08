@@ -23,6 +23,10 @@
 
 **Courses**
 
+- [Andrej Karpathy - CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+- [Andrej Karpathy - Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+- [Curso Deep Learning (UFG)](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB)
+- [Geoffrey Hinton - Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)
 - [Machine Learning Crash Course (Google for Developers)](https://developers.google.com/machine-learning/crash-course)
 - [Mineração de Dados (Univesp)](https://www.youtube.com/playlist?list=PLYen_alduuqrMeAMYe6xXNO875JsPMYzj)
 
