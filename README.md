@@ -33,6 +33,7 @@
 
 **Datasets**
 
+- [BlogSet-BR (Blogspot)](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br/)
 - [Common Crawl (250 billion pages)](https://commoncrawl.org/latest-crawl)
 - [DBpedia (Wikipedia)](https://databus.dbpedia.org/dbpedia/collections/latest-core)
 - [Form Understanding in Noisy Scanned Documents (FUNSD)](https://guillaumejaume.github.io/FUNSD/)
