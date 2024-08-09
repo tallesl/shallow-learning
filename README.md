@@ -22,7 +22,7 @@
 - [MNIST Keras tutorial](https://keras.io/getting_started/intro_to_keras_for_engineers/)
 - [anything-llm/collector/processSingleFile/convert/](https://github.com/Mintplex-Labs/anything-llm/tree/master/collector/processSingleFile/convert)
 - [def seed\_everything](https://github.com/ai-forever/ru-dalle/blob/e96631a/rudalle/utils.py#L10-L17)
-- [fast.ai image classification tutorial](https://www.youtube.com/watch?v=k1GIEkzQ8qc)
+- [keras.utils.plot\_model](https://keras.io/api/utils/model_plotting_utils/)
 
 **Courses**
 
@@ -83,6 +83,7 @@
 
 **Videos**
 
+- [Andrej Karpathy - Recurrent Neural Networks & Long Short-Term Memory](https://www.youtube.com/watch?v=qPcCk1V1JO8)
 - [Andrew Ng - GPU Technology Conference Keynote (2015)](https://video.ibm.com/recorded/60113824)
 - [Art of the Problem - ChatGPT: 30 Year History](https://www.youtube.com/watch?v=OFS90-FX6pg)
 - [David Rumelhart - Brainstyle Computation and Learning (1987)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart)
