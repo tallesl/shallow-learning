@@ -23,6 +23,7 @@
 - [anything-llm/collector/processSingleFile/convert/](https://github.com/Mintplex-Labs/anything-llm/tree/master/collector/processSingleFile/convert)
 - [def seed\_everything](https://github.com/ai-forever/ru-dalle/blob/e96631a/rudalle/utils.py#L10-L17)
 - [keras.utils.plot\_model](https://keras.io/api/utils/model_plotting_utils/)
+- [min-char-rnn.py](https://gist.github.com/karpathy/d4dee566867f8291f086)
 
 **Courses**
 
