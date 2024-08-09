@@ -1,7 +1,9 @@
 **Articles**
 
 - [Andrej Karpathy - A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
+- [Andrej Karpathy - Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [Andrej Karpathy - The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Annotated Research Paper Implementations (with PyTorch)](https://nn.labml.ai/)
 - [Distill](https://distill.pub/)
 - [Eliezer Yudkowsky - AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
 - [Jürgen Schmidhuber - Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
@@ -76,6 +78,7 @@
 - [LMQL (programming language for LLMs)](https://github.com/eth-sri/lmql)
 - [PyOxidizer (executable with embedded Python)](https://github.com/indygreg/PyOxidizer)
 - [TensorFlow Playground](http://playground.tensorflow.org/)
+- [labml (monitor model training)](https://github.com/labmlai/labml)
 - [marimo (git-friendly notebook)](https://marimo.io/)
 
 **Videos**
@@ -86,6 +89,7 @@
 - [David Rumelhart - Connectionist Learning (1990)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart-1)
 - [Fei-Fei Li on Uncommon Knowledge](https://www.youtube.com/watch?v=10_fZRdCM7Q)
 - [Geoffrey Hinton - Q&A (AI subjective experience at 16:30, AI rights at 19:40)](https://www.youtube.com/watch?v=PTF5Up1hMhw)
+- [Ilya Sutskever - Sequence to Sequence Learning with Neural Networks](https://www.youtube.com/watch?v=-uyXE7dY5H0)
 - [Stuart Russel - AI: What If We Succeed? (AI safety)](https://www.youtube.com/watch?v=UvvdFZkhhqE)
 
 **Video demos**
