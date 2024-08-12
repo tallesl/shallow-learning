@@ -62,6 +62,16 @@
 - [What is the "dying ReLU" problem in neural networks?](https://datascience.stackexchange.com/questions/5706/what-is-the-dying-relu-problem-in-neural-networks)
 - [Why did Marvin Minsky claim the multilayer perceptron wasn’t likely going to work?](https://www.quora.com/Why-did-Marvin-Minsky-claim-the-multilayer-perceptron-wasn-t-likely-going-to-work-without-giving-much-evidence-Is-isn-t-intuitvely-obvious-that-multilayer-perceptron-could-overcome-the-limitations-of-single-layer)
 
+**RAG**
+
+- [DataLine](https://github.com/RamiAwar/dataline)
+- [Verba](https://github.com/weaviate/Verba)
+
+**Source code analysis**
+
+- [codeqai](https://github.com/fynnfluegge/codeqai)
+- [Building a better repository map with tree sitter](https://aider.chat/2023/10/22/repomap.html)
+
 **Structured output**
 
 - [llama.cpp formal grammar](https://github.com/ggerganov/llama.cpp/blob/master/grammars/README.md)
@@ -93,6 +103,7 @@
 - [Geoffrey Hinton - Q&A (AI subjective experience at 16:30, AI rights at 19:40)](https://www.youtube.com/watch?v=PTF5Up1hMhw)
 - [Ilya Sutskever - Sequence to Sequence Learning with Neural Networks](https://www.youtube.com/watch?v=-uyXE7dY5H0)
 - [Stuart Russel - AI: What If We Succeed? (AI safety)](https://www.youtube.com/watch?v=UvvdFZkhhqE)
+- [Terrence Sejnowski -  The Deep Learning Revolution](https://www.youtube.com/watch?v=oIch6VN6HOk)
 
 **Video demos**
 
