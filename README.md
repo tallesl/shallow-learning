@@ -117,6 +117,11 @@
 - [labml (monitor model training)](https://github.com/labmlai/labml)
 - [marimo (git-friendly notebook)](https://marimo.io/)
 
+**Vector databases**
+
+- [Chroma](https://www.trychroma.com/)
+- [sqlite-vec](https://github.com/asg017/sqlite-vec)
+
 **Video demos**
 
 - [Geoffrey Hinton - Neural Networks for Machine Learning (MNIST)](https://www.youtube.com/watch?v=uixGgMInc48)
