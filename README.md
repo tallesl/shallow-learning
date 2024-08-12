@@ -56,6 +56,16 @@
 - [aijobs.net](https://aijobs.net/)
 - [deep learning on arc.dev](https://arc.dev/remote-jobs/deep-learning)
 
+**Paid services**
+
+- [Bright Data (Proxy)](https://brightdata.com/pricing/proxy-network)
+- [Groq (AI inference)](https://groq.com/)
+
+**Python**
+
+- [Common Gotchas](https://docs.python-guide.org/writing/gotchas/)
+- [Wait, IPython Can Do That?!](https://switowski.com/blog/wait-ipython-can-do-that/)
+
 **Questions**
 
 - [How to check for dead relu neurons](https://datascience.stackexchange.com/questions/18810/how-to-check-for-dead-relu-neurons)
@@ -77,6 +87,21 @@
 - [llama.cpp formal grammar](https://github.com/ggerganov/llama.cpp/blob/master/grammars/README.md)
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines)
 
+**Talks**
+
+- [Andrej Karpathy - Recurrent Neural Networks & Long Short-Term Memory](https://www.youtube.com/watch?v=qPcCk1V1JO8)
+- [Andrew Ng - GPU Technology Conference Keynote (2015)](https://video.ibm.com/recorded/60113824)
+- [David Rumelhart - Brainstyle Computation and Learning (1987)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart)
+- [David Rumelhart - Connectionist Learning (1990)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart-1)
+- [Fei-Fei Li on Uncommon Knowledge](https://www.youtube.com/watch?v=10_fZRdCM7Q)
+- [Geoffrey Hinton - Q&A (AI subjective experience at 16:30, AI rights at 19:40)](https://www.youtube.com/watch?v=PTF5Up1hMhw)
+- [Ilya Sutskever - Sequence to Sequence Learning with Neural Networks](https://www.youtube.com/watch?v=-uyXE7dY5H0)
+- [Jack Rae - Techniques to Make Language Models More Useful](https://www.youtube.com/watch?v=8krnBzywtbs)
+- [Richard Socher - Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=oGk1v1jQITw)
+- [Richard Socher - Recurrent Neural Networks and Language Models](https://www.youtube.com/watch?v=Keqep_PKrY8)
+- [Stuart Russel - AI: What If We Succeed? (AI safety)](https://www.youtube.com/watch?v=UvvdFZkhhqE)
+- [Terrence Sejnowski -  The Deep Learning Revolution](https://www.youtube.com/watch?v=oIch6VN6HOk)
+
 **Tokenization**
 
 - [BPE pseudocode](http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM#0045_0026)
@@ -91,19 +116,6 @@
 - [TensorFlow Playground](http://playground.tensorflow.org/)
 - [labml (monitor model training)](https://github.com/labmlai/labml)
 - [marimo (git-friendly notebook)](https://marimo.io/)
-
-**Videos**
-
-- [Andrej Karpathy - Recurrent Neural Networks & Long Short-Term Memory](https://www.youtube.com/watch?v=qPcCk1V1JO8)
-- [Andrew Ng - GPU Technology Conference Keynote (2015)](https://video.ibm.com/recorded/60113824)
-- [Art of the Problem - ChatGPT: 30 Year History](https://www.youtube.com/watch?v=OFS90-FX6pg)
-- [David Rumelhart - Brainstyle Computation and Learning (1987)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart)
-- [David Rumelhart - Connectionist Learning (1990)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart-1)
-- [Fei-Fei Li on Uncommon Knowledge](https://www.youtube.com/watch?v=10_fZRdCM7Q)
-- [Geoffrey Hinton - Q&A (AI subjective experience at 16:30, AI rights at 19:40)](https://www.youtube.com/watch?v=PTF5Up1hMhw)
-- [Ilya Sutskever - Sequence to Sequence Learning with Neural Networks](https://www.youtube.com/watch?v=-uyXE7dY5H0)
-- [Stuart Russel - AI: What If We Succeed? (AI safety)](https://www.youtube.com/watch?v=UvvdFZkhhqE)
-- [Terrence Sejnowski -  The Deep Learning Revolution](https://www.youtube.com/watch?v=oIch6VN6HOk)
 
 **Video demos**
 
