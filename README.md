@@ -64,6 +64,8 @@
 **Python**
 
 - [Common Gotchas](https://docs.python-guide.org/writing/gotchas/)
+- [Dead Simple Python](https://www.google.com/books/edition/Dead_Simple_Python/MPBmEAAAQBAJ)
+- [Fluent Python](https://www.google.com/books/edition/Fluent_Python/bIZHCgAAQBAJ)
 - [Wait, IPython Can Do That?!](https://switowski.com/blog/wait-ipython-can-do-that/)
 
 **Questions**
