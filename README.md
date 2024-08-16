@@ -42,6 +42,7 @@
 - [Form Understanding in Noisy Scanned Documents (FUNSD)](https://guillaumejaume.github.io/FUNSD/)
 - [Ngram (Wikipedia)](https://nlp.cs.nyu.edu/wikipedia-data/)
 - [The Pile (800GB of diverse text)](https://pile.eleuther.ai/)
+- [TinyStories (synthetic short stories)](https://huggingface.co/datasets/roneneldan/TinyStories)
 
 **Hardware**
 
