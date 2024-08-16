@@ -43,6 +43,11 @@
 - [Ngram (Wikipedia)](https://nlp.cs.nyu.edu/wikipedia-data/)
 - [The Pile (800GB of diverse text)](https://pile.eleuther.ai/)
 
+**Hardware**
+
+- [What Is Resizable BAR on a GPU, and Should You Use It?](https://www.howtogeek.com/819578/what-is-resizable-bar-on-a-gpu/)
+- [What is XMP or DOCP and how to enable it?](https://www.nicehash.com/blog/post/what-is-xmp-or-docp-and-how-to-enable-it)
+
 **Inference libraries**
 
 - [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy)
@@ -102,7 +107,6 @@
 - [Richard Socher - Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=oGk1v1jQITw)
 - [Richard Socher - Recurrent Neural Networks and Language Models](https://www.youtube.com/watch?v=Keqep_PKrY8)
 - [Stuart Russel - AI: What If We Succeed? (AI safety)](https://www.youtube.com/watch?v=UvvdFZkhhqE)
-- [Terrence Sejnowski -  The Deep Learning Revolution](https://www.youtube.com/watch?v=oIch6VN6HOk)
 
 **Tokenization**
 
