@@ -2,8 +2,8 @@
 
 - [Andrej Karpathy - A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 - [Andrej Karpathy - Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
-- [Andrej Karpathy - The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Annotated Research Paper Implementations (with PyTorch)](https://nn.labml.ai/)
+- [Christopher Olah - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Distill](https://distill.pub/)
 - [Eliezer Yudkowsky - AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
 - [Jürgen Schmidhuber - Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
@@ -19,11 +19,9 @@
 
 **Code**
 
-- [MNIST Keras tutorial](https://keras.io/getting_started/intro_to_keras_for_engineers/)
 - [anything-llm/collector/processSingleFile/convert/](https://github.com/Mintplex-Labs/anything-llm/tree/master/collector/processSingleFile/convert)
 - [def seed\_everything](https://github.com/ai-forever/ru-dalle/blob/e96631a/rudalle/utils.py#L10-L17)
 - [keras.utils.plot\_model](https://keras.io/api/utils/model_plotting_utils/)
-- [min-char-rnn.py](https://gist.github.com/karpathy/d4dee566867f8291f086)
 
 **Courses**
 
@@ -97,7 +95,6 @@
 
 **Talks**
 
-- [Andrej Karpathy - Recurrent Neural Networks & Long Short-Term Memory](https://www.youtube.com/watch?v=qPcCk1V1JO8)
 - [Andrew Ng - GPU Technology Conference Keynote (2015)](https://video.ibm.com/recorded/60113824)
 - [David Rumelhart - Brainstyle Computation and Learning (1987)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart)
 - [David Rumelhart - Connectionist Learning (1990)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart-1)
@@ -107,7 +104,14 @@
 - [Jack Rae - Techniques to Make Language Models More Useful](https://www.youtube.com/watch?v=8krnBzywtbs)
 - [Richard Socher - Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=oGk1v1jQITw)
 - [Richard Socher - Recurrent Neural Networks and Language Models](https://www.youtube.com/watch?v=Keqep_PKrY8)
-- [Stuart Russel - AI: What If We Succeed? (AI safety)](https://www.youtube.com/watch?v=UvvdFZkhhqE)
+- [Tomáš Mikolov - Deep Learning in NLP and Beyond](https://www.youtube.com/watch?v=zAJdS-nBdL0)
+
+**Text prediction with RNNs**
+
+- [Andrej Karpathy - Recurrent Neural Networks & Long Short-Term Memory](https://www.youtube.com/watch?v=qPcCk1V1JO8)
+- [Andrej Karpathy - The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Andrej Karpathy - min-char-rnn.py](https://gist.github.com/karpathy/d4dee566867f8291f086)
+- [François Chollet - Character-level text generation with LSTM](https://keras.io/examples/generative/lstm_character_level_text_generation/)
 
 **Tokenization**
 
