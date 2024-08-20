@@ -113,6 +113,13 @@
 - [Andrej Karpathy - min-char-rnn.py](https://gist.github.com/karpathy/d4dee566867f8291f086)
 - [François Chollet - Character-level text generation with LSTM](https://keras.io/examples/generative/lstm_character_level_text_generation/)
 
+**Transformers**
+
+- [Paper walkthrough (video)](https://www.youtube.com/watch?v=iDulhoQ2pro)
+- [Papers We Love - Attention Is All You Need (video)](https://www.youtube.com/watch?v=TvU3ayIMWpE)
+- [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+- [Visual Guide to Transformer Neural Networks (video)](https://www.youtube.com/watch?v=dichIcUZfOw()
+
 **Tokenization**
 
 - [BPE pseudocode](http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM#0045_0026)
