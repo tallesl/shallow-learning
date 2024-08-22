@@ -106,12 +106,13 @@
 - [Richard Socher - Recurrent Neural Networks and Language Models](https://www.youtube.com/watch?v=Keqep_PKrY8)
 - [Tomáš Mikolov - Deep Learning in NLP and Beyond](https://www.youtube.com/watch?v=zAJdS-nBdL0)
 
-**Text prediction with RNNs**
+**Text prediction**
 
 - [Andrej Karpathy - Recurrent Neural Networks & Long Short-Term Memory](https://www.youtube.com/watch?v=qPcCk1V1JO8)
 - [Andrej Karpathy - The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Andrej Karpathy - min-char-rnn.py](https://gist.github.com/karpathy/d4dee566867f8291f086)
 - [François Chollet - Character-level text generation with LSTM](https://keras.io/examples/generative/lstm_character_level_text_generation/)
+- [Kyubyong/word\_prediction (CNN)](https://github.com/Kyubyong/word_prediction)
 
 **Transformers**
 
