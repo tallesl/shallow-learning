@@ -119,7 +119,7 @@
 - [Paper walkthrough (video)](https://www.youtube.com/watch?v=iDulhoQ2pro)
 - [Papers We Love - Attention Is All You Need (video)](https://www.youtube.com/watch?v=TvU3ayIMWpE)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
-- [Visual Guide to Transformer Neural Networks (video)](https://www.youtube.com/watch?v=dichIcUZfOw()
+- [Visual Guide to Transformer Neural Networks (video)](https://www.youtube.com/watch?v=dichIcUZfOw)
 
 **Tokenization**
 
