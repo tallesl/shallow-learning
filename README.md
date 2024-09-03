@@ -100,11 +100,13 @@
 - [David Rumelhart - Connectionist Learning (1990)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart-1)
 - [Fei-Fei Li on Uncommon Knowledge](https://www.youtube.com/watch?v=10_fZRdCM7Q)
 - [Geoffrey Hinton - Q&A (AI subjective experience at 16:30, AI rights at 19:40)](https://www.youtube.com/watch?v=PTF5Up1hMhw)
+- [Ilya Sutskever - GPT-2](https://www.youtube.com/watch?v=T0I88NhR_9M)
 - [Ilya Sutskever - Sequence to Sequence Learning with Neural Networks](https://www.youtube.com/watch?v=-uyXE7dY5H0)
 - [Jack Rae - Techniques to Make Language Models More Useful](https://www.youtube.com/watch?v=8krnBzywtbs)
 - [Richard Socher - Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=oGk1v1jQITw)
 - [Richard Socher - Recurrent Neural Networks and Language Models](https://www.youtube.com/watch?v=Keqep_PKrY8)
 - [Tomáš Mikolov - Deep Learning in NLP and Beyond](https://www.youtube.com/watch?v=zAJdS-nBdL0)
+- [Yoshua Bengio - Recurrent Neural Networks](https://www.youtube.com/watch?v=AYku9C9XoB8)
 
 **Text prediction**
 
