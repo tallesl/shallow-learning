@@ -8,6 +8,7 @@
 - [Eliezer Yudkowsky - AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
 - [Jürgen Schmidhuber - Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
 - [Maarten Grootendorst - A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+- [Machine Learning Spotlight I: Investigating Recurrent Neural Networks](https://medium.com/@SAPCAI/machine-learning-spotlight-i-investigating-recurrent-neural-networks-40a84067e916)
 - [Michael Castelle - Deep Learning as an Epistemic Ensemble](https://castelle.org/pages/deep-learning-as-an-epistemic-ensemble.html)
 
 **Book club**
