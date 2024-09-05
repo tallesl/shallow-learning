@@ -11,6 +11,11 @@
 - [Machine Learning Spotlight I: Investigating Recurrent Neural Networks](https://medium.com/@SAPCAI/machine-learning-spotlight-i-investigating-recurrent-neural-networks-40a84067e916)
 - [Michael Castelle - Deep Learning as an Epistemic Ensemble](https://castelle.org/pages/deep-learning-as-an-epistemic-ensemble.html)
 
+**Brazilian**
+
+- [Aprendizado em Redes Neurais Profundas (UFV)](https://ufv-inf721.lucasnferreira.com/)
+- [Deep Learning (UFG)](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB)
+
 **Book club**
 
 - [Build a Large Language Model](https://www.youtube.com/playlist?list=PLheFoa5iXad7-YWe-Wd7n_1udggti4JiT)
@@ -28,7 +33,6 @@
 
 - [Andrej Karpathy - CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 - [Andrej Karpathy - Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
-- [Curso Deep Learning (UFG)](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB)
 - [Geoffrey Hinton - Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)
 - [Machine Learning Crash Course (Google for Developers)](https://developers.google.com/machine-learning/crash-course)
 - [Mineração de Dados (Univesp)](https://www.youtube.com/playlist?list=PLYen_alduuqrMeAMYe6xXNO875JsPMYzj)
