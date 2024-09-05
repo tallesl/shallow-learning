@@ -144,12 +144,13 @@
 - [Chroma](https://www.trychroma.com/)
 - [sqlite-vec](https://github.com/asg017/sqlite-vec)
 
-**Video demos**
+**Visualization**
 
 - [Deep Dream I](https://www.youtube.com/watch?v=BsYjsgE76hc)
 - [Deep Dream II](https://www.youtube.com/watch?v=5biMPQOcEy8)
 - [Deep Dream III](https://www.youtube.com/watch?v=srn3tMW9Ges)
 - [Geoffrey Hinton - Neural Networks for Machine Learning (MNIST)](https://www.youtube.com/watch?v=uixGgMInc48)
 - [Lukasz Kaiser - Neural GPU Learned Algorithms](https://www.youtube.com/watch?v=LzC8NkTZAF4)
+- [OpenAI Microscope](https://microscope.openai.com/)
 - [Visualization of a fully connected neural network (MNIST)](https://www.youtube.com/watch?v=sDDjJRnnHao)
 - [Yann LeCun - Convolutional Network Demo from 1989 (MNIST)](https://www.youtube.com/watch?v=FwFduRA_L6Q)
