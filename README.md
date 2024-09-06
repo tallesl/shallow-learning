@@ -75,7 +75,11 @@
 - [Common Gotchas](https://docs.python-guide.org/writing/gotchas/)
 - [Dead Simple Python](https://www.google.com/books/edition/Dead_Simple_Python/MPBmEAAAQBAJ)
 - [Fluent Python](https://www.google.com/books/edition/Fluent_Python/bIZHCgAAQBAJ)
+- [LMQL (programming language for LLMs)](https://github.com/eth-sri/lmql)
+- [PyOxidizer (executable with embedded Python)](https://github.com/indygreg/PyOxidizer)
 - [Wait, IPython Can Do That?!](https://switowski.com/blog/wait-ipython-can-do-that/)
+- [objexplore (CLI object inspecting)](https://github.com/kylepollina/objexplore)
+- [pudb (nicer CLI debugger)](https://github.com/inducer/pudb)
 
 **Questions**
 
@@ -137,8 +141,6 @@
 
 **Tools**
 
-- [LMQL (programming language for LLMs)](https://github.com/eth-sri/lmql)
-- [PyOxidizer (executable with embedded Python)](https://github.com/indygreg/PyOxidizer)
 - [TensorFlow Playground](http://playground.tensorflow.org/)
 - [labml (monitor model training)](https://github.com/labmlai/labml)
 - [marimo (git-friendly notebook)](https://marimo.io/)
