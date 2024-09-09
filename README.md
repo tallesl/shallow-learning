@@ -7,6 +7,7 @@
 - [Distill](https://distill.pub/)
 - [Eliezer Yudkowsky - AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
 - [Jürgen Schmidhuber - Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
+- [Leo Gao - The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 - [Maarten Grootendorst - A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 - [Machine Learning Spotlight I: Investigating Recurrent Neural Networks](https://medium.com/@SAPCAI/machine-learning-spotlight-i-investigating-recurrent-neural-networks-40a84067e916)
 - [Michael Castelle - Deep Learning as an Epistemic Ensemble](https://castelle.org/pages/deep-learning-as-an-epistemic-ensemble.html)
@@ -129,6 +130,8 @@
 - [Andrej Karpathy - min-char-rnn.py](https://gist.github.com/karpathy/d4dee566867f8291f086)
 - [François Chollet - Character-level text generation with LSTM](https://keras.io/examples/generative/lstm_character_level_text_generation/)
 - [Kyubyong/word\_prediction (CNN)](https://github.com/Kyubyong/word_prediction)
+- [jcjohnson/torch-rnn](https://github.com/jcjohnson/torch-rnn)
+- [sherjilozair/char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow]
 
 **Transformers**
 
