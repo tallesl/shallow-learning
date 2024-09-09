@@ -129,6 +129,7 @@
 - [Andrej Karpathy - The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Andrej Karpathy - min-char-rnn.py](https://gist.github.com/karpathy/d4dee566867f8291f086)
 - [François Chollet - Character-level text generation with LSTM](https://keras.io/examples/generative/lstm_character_level_text_generation/)
+- [Generating Names with a Character-Level RNN (PyTorch tutorial)](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)
 - [Kyubyong/word\_prediction (CNN)](https://github.com/Kyubyong/word_prediction)
 - [jcjohnson/torch-rnn](https://github.com/jcjohnson/torch-rnn)
 - [sherjilozair/char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow]
