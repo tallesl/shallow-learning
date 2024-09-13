@@ -91,6 +91,7 @@
 
 **Questions**
 
+- [AMA Geoffrey Hinton](https://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/)
 - [How to check for dead relu neurons](https://datascience.stackexchange.com/questions/18810/how-to-check-for-dead-relu-neurons)
 - [What is the "dying ReLU" problem in neural networks?](https://datascience.stackexchange.com/questions/5706/what-is-the-dying-relu-problem-in-neural-networks)
 - [Why did Marvin Minsky claim the multilayer perceptron wasn’t likely going to work?](https://www.quora.com/Why-did-Marvin-Minsky-claim-the-multilayer-perceptron-wasn-t-likely-going-to-work-without-giving-much-evidence-Is-isn-t-intuitvely-obvious-that-multilayer-perceptron-could-overcome-the-limitations-of-single-layer)
@@ -112,6 +113,7 @@
 
 **Talks**
 
+- [Alec Radford - Learning From Text](https://www.youtube.com/watch?v=BnpB3GrpsfM)
 - [Andrew Ng - GPU Technology Conference Keynote (2015)](https://video.ibm.com/recorded/60113824)
 - [David Rumelhart - Brainstyle Computation and Learning (1987)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart)
 - [David Rumelhart - Connectionist Learning (1990)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart-1)
@@ -133,8 +135,7 @@
 - [François Chollet - Character-level text generation with LSTM](https://keras.io/examples/generative/lstm_character_level_text_generation/)
 - [Generating Names with a Character-Level RNN (PyTorch tutorial)](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)
 - [Kyubyong/word\_prediction (CNN)](https://github.com/Kyubyong/word_prediction)
-- [jcjohnson/torch-rnn](https://github.com/jcjohnson/torch-rnn)
-- [sherjilozair/char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow]
+- [nikhilbarhate99/Char-RNN-PyTorch](https://github.com/nikhilbarhate99/Char-RNN-PyTorch)
 
 **Transformers**
 
