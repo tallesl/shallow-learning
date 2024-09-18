@@ -135,7 +135,6 @@
 - [François Chollet - Character-level text generation with LSTM](https://keras.io/examples/generative/lstm_character_level_text_generation/)
 - [Generating Names with a Character-Level RNN (PyTorch tutorial)](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)
 - [Kyubyong/word\_prediction (CNN)](https://github.com/Kyubyong/word_prediction)
-- [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI)
 - [nikhilbarhate99/Char-RNN-PyTorch](https://github.com/nikhilbarhate99/Char-RNN-PyTorch)
 
 **Transformers**
