@@ -135,14 +135,19 @@
 - [François Chollet - Character-level text generation with LSTM](https://keras.io/examples/generative/lstm_character_level_text_generation/)
 - [Generating Names with a Character-Level RNN (PyTorch tutorial)](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)
 - [Kyubyong/word\_prediction (CNN)](https://github.com/Kyubyong/word_prediction)
+- [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI)
 - [nikhilbarhate99/Char-RNN-PyTorch](https://github.com/nikhilbarhate99/Char-RNN-PyTorch)
 
 **Transformers**
 
+- [GTC 2024 features the authors of "Attention Is All You Need"](https://www.youtube.com/watch?v=hC_qASRcBhU)
 - [Paper walkthrough (video)](https://www.youtube.com/watch?v=iDulhoQ2pro)
 - [Papers We Love - Attention Is All You Need (video)](https://www.youtube.com/watch?v=TvU3ayIMWpE)
+- [Positional Encoding in Transformer (reddit)](https://www.reddit.com/r/MachineLearning/comments/cttefo/comment/exs7d08/)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 - [Visual Guide to Transformer Neural Networks (video)](https://www.youtube.com/watch?v=dichIcUZfOw)
+- [What if we drop the causal mask in auto-regressive Transformer? (Stack Exchange)](https://ai.stackexchange.com/q/40917/87091)
+- [Why are embeddings added, not concatenated? (Stack Exchange)](https://ai.stackexchange.com/q/35990/87091)
 
 **Tokenization**
 
