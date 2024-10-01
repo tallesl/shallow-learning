@@ -74,7 +74,7 @@
 - [Michael Castelle - Deep Learning as an Epistemic Ensemble](https://castelle.org/pages/deep-learning-as-an-epistemic-ensemble.html)
 - [Why did Marvin Minsky claim the multilayer perceptron wasn’t likely going to work?](https://www.quora.com/Why-did-Marvin-Minsky-claim-the-multilayer-perceptron-wasn-t-likely-going-to-work-without-giving-much-evidence-Is-isn-t-intuitvely-obvious-that-multilayer-perceptron-could-overcome-the-limitations-of-single-layer)
 
-**Prompt Engineering**
+**Prompt engineering**
 
 - [The Prompt Report: A Systematic Survey of Prompting Techniques (2024)](https://arxiv.org/abs/2406.06608)
 
@@ -93,13 +93,13 @@
 
 - [Maarten Grootendorst - A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 
-**Recurrent Neural Networks**
+**Recurrent neural networks**
 
 - [Christopher Olah - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Ilya Sutskever, James Martens, Geoffrey Hinton - Generating Text with Recurrent Neural Networks (2011)](https://icml.cc/2011/papers/524_icmlpaper.pdf)
 - [Machine Learning Spotlight I: Investigating Recurrent Neural Networks](https://medium.com/@SAPCAI/machine-learning-spotlight-i-investigating-recurrent-neural-networks-40a84067e916)
 
-**Recurrent Neural Networks Visualization**
+**Recurrent neural networks visualization**
 
 - [Alec Radford, Rafal Jozefowicz, Ilya Sutskever - Learning to Generate Reviews and Discovering Sentiment (2017)](https://arxiv.org/abs/1704.01444)
 - [Andrej Karpathy, Justin Johnson, Li Fei-Fei - Visualizing and Understanding Recurrent Networks (2015)](https://arxiv.org/abs/1506.02078)
