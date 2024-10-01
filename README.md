@@ -65,11 +65,13 @@
 
 **Miscellanea**
 
+- [AMA Geoffrey Hinton](https://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/)
 - [Andrej Karpathy - A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 - [Eliezer Yudkowsky - AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
 - [Jürgen Schmidhuber - Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
 - [Leo Gao - The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 - [Michael Castelle - Deep Learning as an Epistemic Ensemble](https://castelle.org/pages/deep-learning-as-an-epistemic-ensemble.html)
+- [Why did Marvin Minsky claim the multilayer perceptron wasn’t likely going to work?](https://www.quora.com/Why-did-Marvin-Minsky-claim-the-multilayer-perceptron-wasn-t-likely-going-to-work-without-giving-much-evidence-Is-isn-t-intuitvely-obvious-that-multilayer-perceptron-could-overcome-the-limitations-of-single-layer)
 
 **Python**
 
@@ -86,16 +88,14 @@
 
 - [Maarten Grootendorst - A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 
-**Questions**
-
-- [AMA Geoffrey Hinton](https://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/)
-- [Why did Marvin Minsky claim the multilayer perceptron wasn’t likely going to work?](https://www.quora.com/Why-did-Marvin-Minsky-claim-the-multilayer-perceptron-wasn-t-likely-going-to-work-without-giving-much-evidence-Is-isn-t-intuitvely-obvious-that-multilayer-perceptron-could-overcome-the-limitations-of-single-layer)
-
 **Recurrent Neural Networks**
 
 - [Christopher Olah - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [Generating Text with Recurrent Neural o
+- [Ilya Sutskever, James Martens, Geoffrey Hinton - Generating Text with Recurrent Neural Networks (2011)](https://icml.cc/2011/papers/524_icmlpaper.pdf)
 - [Machine Learning Spotlight I: Investigating Recurrent Neural Networks](https://medium.com/@SAPCAI/machine-learning-spotlight-i-investigating-recurrent-neural-networks-40a84067e916)
 NETWORKS]
+
 
 **Recurrent Neural Networks Visualization**
 
@@ -103,7 +103,7 @@ NETWORKS]
 - [Andrej Karpathy, Justin Johnson, Li Fei-Fei - Visualizing and Understanding Recurrent Networks (2015)](https://arxiv.org/abs/1506.02078)
 - [The unreasonable effectiveness of one neuron](https://rakeshchada.github.io/Sentiment-Neuron.html)
 - [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment)
-- [rakeshchada/generating-reviews-discovering-sentiment]ahttps://github.com/rakeshchada/generating-reviews-discovering-sentiment/blob/95a1933/Sentiment-Neuron-Yelp.ipynb()
+- [rakeshchada/generating-reviews-discovering-sentiment](https://github.com/rakeshchada/generating-reviews-discovering-sentiment/blob/95a1933/Sentiment-Neuron-Yelp.ipynb)
 
 **Retrieval-Augmented Generation (RAG)**
 
