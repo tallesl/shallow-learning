@@ -1,28 +1,20 @@
-**Articles**
-
-- [Andrej Karpathy - A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
-- [Andrej Karpathy - Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
-- [Annotated Research Paper Implementations (with PyTorch)](https://nn.labml.ai/)
-- [Christopher Olah - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- [Distill](https://distill.pub/)
-- [Eliezer Yudkowsky - AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
-- [Jürgen Schmidhuber - Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
-- [Leo Gao - The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
-- [Maarten Grootendorst - A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
-- [Machine Learning Spotlight I: Investigating Recurrent Neural Networks](https://medium.com/@SAPCAI/machine-learning-spotlight-i-investigating-recurrent-neural-networks-40a84067e916)
-- [Michael Castelle - Deep Learning as an Epistemic Ensemble](https://castelle.org/pages/deep-learning-as-an-epistemic-ensemble.html)
-
 **Brazil**
 
 - [Aprendizado em Redes Neurais Profundas (UFV)](https://ufv-inf721.lucasnferreira.com/)
-- [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased)
 - [Cabrita](https://github.com/22-hours/cabrita)
 - [Curso Deep Learning em Python (PUC Rio)](https://ica.ele.puc-rio.br/cursos/deep-learning-em-python/)
 - [Deep Learning (UFG)](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB)
-- [Especialização em Deep Learning (UFPE)](https://posdeeplearning.cin.ufpe.br/)
 - [IA para o Bem de Todos](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/cct/legislacao/arquivos/IA_para_o_Bem_de_Todos.pdf)
 - [Maritaca AI](https://www.maritaca.ai/)
 - [Sabiá-2: A New Generation of Portuguese Large Language Models](https://arxiv.org/pdf/2403.09887)
+
+**Byte Pair Encoding (BPE)**
+
+- [BPE pseudocode](http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM#0045_0026)
+- [BPE video demo](https://www.youtube.com/watch?v=HEikzVL-lZU)
+- [Karpathy implementation](https://github.com/karpathy/minbpe)
+- [OpenAI implementation](https://github.com/openai/tiktoken)
+- [OpenAI online tokenizer](https://platform.openai.com/tokenizer)
 
 **Book club**
 
@@ -31,19 +23,12 @@
 - [Dive into Deep Learning](https://www.youtube.com/playlist?list=PLGSHbNsNO4ViFXawDmx-kEz7zGziOpNSb)
 - [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://www.youtube.com/playlist?list=PLheFoa5iXad7r2AhM3mwGr3t_GUGumQC2)
 
-**Code**
-
-- [anything-llm/collector/processSingleFile/convert/](https://github.com/Mintplex-Labs/anything-llm/tree/master/collector/processSingleFile/convert)
-- [def seed\_everything](https://github.com/ai-forever/ru-dalle/blob/e96631a/rudalle/utils.py#L10-L17)
-- [keras.utils.plot\_model](https://keras.io/api/utils/model_plotting_utils/)
-
 **Courses**
 
 - [Andrej Karpathy - CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 - [Andrej Karpathy - Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 - [Geoffrey Hinton - Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)
 - [Machine Learning Crash Course (Google for Developers)](https://developers.google.com/machine-learning/crash-course)
-- [Mineração de Dados (Univesp)](https://www.youtube.com/playlist?list=PLYen_alduuqrMeAMYe6xXNO875JsPMYzj)
 
 **Datasets**
 
@@ -54,6 +39,11 @@
 - [Ngram (Wikipedia)](https://nlp.cs.nyu.edu/wikipedia-data/)
 - [The Pile (800GB of diverse text)](https://pile.eleuther.ai/)
 - [TinyStories (synthetic short stories)](https://huggingface.co/datasets/roneneldan/TinyStories)
+
+**Dying ReLU**
+
+- [How to check for dead relu neurons](https://datascience.stackexchange.com/questions/18810/how-to-check-for-dead-relu-neurons)
+- [What is the "dying ReLU" problem in neural networks?](https://datascience.stackexchange.com/questions/5706/what-is-the-dying-relu-problem-in-neural-networks)
 
 **Hardware**
 
@@ -73,10 +63,13 @@
 - [aijobs.net](https://aijobs.net/)
 - [deep learning on arc.dev](https://arc.dev/remote-jobs/deep-learning)
 
-**Paid services**
+**Miscellanea**
 
-- [Bright Data (Proxy)](https://brightdata.com/pricing/proxy-network)
-- [Groq (AI inference)](https://groq.com/)
+- [Andrej Karpathy - A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
+- [Eliezer Yudkowsky - AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
+- [Jürgen Schmidhuber - Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
+- [Leo Gao - The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
+- [Michael Castelle - Deep Learning as an Epistemic Ensemble](https://castelle.org/pages/deep-learning-as-an-epistemic-ensemble.html)
 
 **Python**
 
@@ -89,22 +82,34 @@
 - [objexplore (CLI object inspecting)](https://github.com/kylepollina/objexplore)
 - [pudb (nicer CLI debugger)](https://github.com/inducer/pudb)
 
+**Quantization**
+
+- [Maarten Grootendorst - A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+
 **Questions**
 
 - [AMA Geoffrey Hinton](https://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/)
-- [How to check for dead relu neurons](https://datascience.stackexchange.com/questions/18810/how-to-check-for-dead-relu-neurons)
-- [What is the "dying ReLU" problem in neural networks?](https://datascience.stackexchange.com/questions/5706/what-is-the-dying-relu-problem-in-neural-networks)
 - [Why did Marvin Minsky claim the multilayer perceptron wasn’t likely going to work?](https://www.quora.com/Why-did-Marvin-Minsky-claim-the-multilayer-perceptron-wasn-t-likely-going-to-work-without-giving-much-evidence-Is-isn-t-intuitvely-obvious-that-multilayer-perceptron-could-overcome-the-limitations-of-single-layer)
 
-**RAG**
+**Recurrent Neural Networks**
 
+- [Christopher Olah - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [DataLine](https://github.com/RamiAwar/dataline)
+- [Machine Learning Spotlight I: Investigating Recurrent Neural Networks](https://medium.com/@SAPCAI/machine-learning-spotlight-i-investigating-recurrent-neural-networks-40a84067e916)
 - [Verba](https://github.com/weaviate/Verba)
+
+**Retrieval-Augmented Generation (RAG)**
+
+- [anything-llm/collector/processSingleFile/convert/](https://github.com/Mintplex-Labs/anything-llm/tree/9b86bbd/collector/processSingleFile/convert)
 
 **Source code analysis**
 
-- [codeqai](https://github.com/fynnfluegge/codeqai)
 - [Building a better repository map with tree sitter](https://aider.chat/2023/10/22/repomap.html)
+- [codeqai](https://github.com/fynnfluegge/codeqai)
+
+**Snippets**
+
+- [def seed\_everything](https://github.com/ai-forever/ru-dalle/blob/e96631a/rudalle/utils.py#L10-L17)
 
 **Structured output**
 
@@ -148,17 +153,8 @@
 - [What if we drop the causal mask in auto-regressive Transformer? (Stack Exchange)](https://ai.stackexchange.com/q/40917/87091)
 - [Why are embeddings added, not concatenated? (Stack Exchange)](https://ai.stackexchange.com/q/35990/87091)
 
-**Tokenization**
-
-- [BPE pseudocode](http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM#0045_0026)
-- [BPE video demo](https://www.youtube.com/watch?v=HEikzVL-lZU)
-- [Byte pair encoding](https://en.wikipedia.org/wiki/Byte_pair_encoding)
-- [openai/tiktoken](https://github.com/openai/tiktoken)
-
 **Tools**
 
-- [TensorFlow Playground](http://playground.tensorflow.org/)
-- [labml (monitor model training)](https://github.com/labmlai/labml)
 - [marimo (git-friendly notebook)](https://marimo.io/)
 
 **Vector databases**
@@ -171,8 +167,10 @@
 - [Deep Dream I](https://www.youtube.com/watch?v=BsYjsgE76hc)
 - [Deep Dream II](https://www.youtube.com/watch?v=5biMPQOcEy8)
 - [Deep Dream III](https://www.youtube.com/watch?v=srn3tMW9Ges)
+- [Distill](https://distill.pub/)
 - [Geoffrey Hinton - Neural Networks for Machine Learning (MNIST)](https://www.youtube.com/watch?v=uixGgMInc48)
 - [Lukasz Kaiser - Neural GPU Learned Algorithms](https://www.youtube.com/watch?v=LzC8NkTZAF4)
 - [OpenAI Microscope](https://microscope.openai.com/)
+- [TensorFlow Playground](http://playground.tensorflow.org/)
 - [Visualization of a fully connected neural network (MNIST)](https://www.youtube.com/watch?v=sDDjJRnnHao)
 - [Yann LeCun - Convolutional Network Demo from 1989 (MNIST)](https://www.youtube.com/watch?v=FwFduRA_L6Q)
