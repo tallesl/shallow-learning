@@ -94,12 +94,21 @@
 **Recurrent Neural Networks**
 
 - [Christopher Olah - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- [DataLine](https://github.com/RamiAwar/dataline)
 - [Machine Learning Spotlight I: Investigating Recurrent Neural Networks](https://medium.com/@SAPCAI/machine-learning-spotlight-i-investigating-recurrent-neural-networks-40a84067e916)
-- [Verba](https://github.com/weaviate/Verba)
+NETWORKS]
+
+**Recurrent Neural Networks Visualization**
+
+- [Alec Radford, Rafal Jozefowicz, Ilya Sutskever - Learning to Generate Reviews and Discovering Sentiment (2017)](https://arxiv.org/abs/1704.01444)
+- [Andrej Karpathy, Justin Johnson, Li Fei-Fei - Visualizing and Understanding Recurrent Networks (2015)](https://arxiv.org/abs/1506.02078)
+- [The unreasonable effectiveness of one neuron](https://rakeshchada.github.io/Sentiment-Neuron.html)
+- [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment)
+- [rakeshchada/generating-reviews-discovering-sentiment]ahttps://github.com/rakeshchada/generating-reviews-discovering-sentiment/blob/95a1933/Sentiment-Neuron-Yelp.ipynb()
 
 **Retrieval-Augmented Generation (RAG)**
 
+- [DataLine](https://github.com/RamiAwar/dataline)
+- [Verba](https://github.com/weaviate/Verba)
 - [anything-llm/collector/processSingleFile/convert/](https://github.com/Mintplex-Labs/anything-llm/tree/9b86bbd/collector/processSingleFile/convert)
 
 **Source code analysis**
