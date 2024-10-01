@@ -96,7 +96,6 @@
 **Recurrent Neural Networks**
 
 - [Christopher Olah - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- [Generating Text with Recurrent Neural o
 - [Ilya Sutskever, James Martens, Geoffrey Hinton - Generating Text with Recurrent Neural Networks (2011)](https://icml.cc/2011/papers/524_icmlpaper.pdf)
 - [Machine Learning Spotlight I: Investigating Recurrent Neural Networks](https://medium.com/@SAPCAI/machine-learning-spotlight-i-investigating-recurrent-neural-networks-40a84067e916)
 NETWORKS]
