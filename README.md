@@ -129,7 +129,7 @@
 
 **Talks**
 
-- [Alec Radford - Learning From Text](https://www.youtube.com/watch?v=BnpB3GrpsfM)
+- [Alec Radford - Learning From Text (2020)](https://www.youtube.com/watch?v=BnpB3GrpsfM)
 - [Andrew Ng - GPU Technology Conference Keynote (2015)](https://video.ibm.com/recorded/60113824)
 - [David Rumelhart - Brainstyle Computation and Learning (1987)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart)
 - [David Rumelhart - Connectionist Learning (1990)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart-1)
