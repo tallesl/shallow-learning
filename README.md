@@ -63,6 +63,11 @@
 - [aijobs.net](https://aijobs.net/)
 - [deep learning on arc.dev](https://arc.dev/remote-jobs/deep-learning)
 
+**LLM training**
+
+- [Sebastian Raschka -  Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+- [Thom Wolf - A little guide to building Large Language Models in 2024](https://www.youtube.com/watch?v=2-SPH9hIKT8)
+
 **Miscellanea**
 
 - [GPT1 paper annotated](https://github.com/shreyansh26/Annotated-ML-Papers/blob/main/GPT1.pdf)
@@ -98,6 +103,7 @@
 - [Christopher Olah - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Ilya Sutskever, James Martens, Geoffrey Hinton - Generating Text with Recurrent Neural Networks (2011)](https://icml.cc/2011/papers/524_icmlpaper.pdf)
 - [Machine Learning Spotlight I: Investigating Recurrent Neural Networks](https://medium.com/@SAPCAI/machine-learning-spotlight-i-investigating-recurrent-neural-networks-40a84067e916)
+- [Were RNNs All We Needed? (2024)](https://arxiv.org/pdf/2410.01201)
 
 **Recurrent neural networks visualization**
 
@@ -185,3 +191,10 @@
 - [TensorFlow Playground](http://playground.tensorflow.org/)
 - [Visualization of a fully connected neural network (MNIST)](https://www.youtube.com/watch?v=sDDjJRnnHao)
 - [Yann LeCun - Convolutional Network Demo from 1989 (MNIST)](https://www.youtube.com/watch?v=FwFduRA_L6Q)
+
+**word2vec**
+
+- [Joshua T. Goodman - A Bit of Progress in Language Modeling (2008)](https://arxiv.org/pdf/cs/0108005)
+- [Tomas Mikolov - Natural Language Processing Lecture (2020)](https://www.youtube.com/watch?v=tX_D97Vf08k)
+- [Tomas Mikolov - Test of Time Award at NeurIPS (Facebook post)](https://news.ycombinator.com/item?id=38654038)
+- [Word2Vec Research Paper Explained](https://towardsdatascience.com/word2vec-research-paper-explained-205cb7eecc30)
