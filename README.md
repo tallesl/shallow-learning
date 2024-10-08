@@ -170,6 +170,19 @@
 - [What if we drop the causal mask in auto-regressive Transformer? (Stack Exchange)](https://ai.stackexchange.com/q/40917/87091)
 - [Why are embeddings added, not concatenated? (Stack Exchange)](https://ai.stackexchange.com/q/35990/87091)
 
+**Tomas Mikolov**
+
+- [Hendrik Heuer - word2vec from theory to practice](http://hen-drik.de/pub/Heuer%20-%20word2vec%20-%20From%20theory%20to%20practice.pdf)
+- [Jake Tae - Word2vec from Scratch](https://jaketae.github.io/study/word2vec/)
+- [JosephSBoyle/skip\_gram](https://github.com/JosephSBoyle/skip_gram)
+- [Joshua T. Goodman - A Bit of Progress in Language Modeling (2008)](https://arxiv.org/pdf/cs/0108005)
+- [Tomas Mikolov - Natural Language Processing Lecture (2020)](https://www.youtube.com/watch?v=tX_D97Vf08k)
+- [Tomas Mikolov - Statistical Language Models Based on Neural Networks (2012, slides)](http://www.fit.vutbr.cz/~imikolov/rnnlm/google.pdf)
+- [Tomas Mikolov - Statistical Language Models Based on Neural Networks (2012, thesis)](https://www.fit.vut.cz/study/phd-thesis-file/283/283.pdf)
+- [Tomas Mikolov - Test of Time Award at NeurIPS (Facebook post)](https://news.ycombinator.com/item?id=38654038)
+- [Word2Vec Research Paper Explained](https://towardsdatascience.com/word2vec-research-paper-explained-205cb7eecc30)
+- [tmikolov/word2vec](https://github.com/tmikolov/word2vec)
+
 **Tools**
 
 - [marimo (git-friendly notebook)](https://marimo.io/)
@@ -191,13 +204,3 @@
 - [TensorFlow Playground](http://playground.tensorflow.org/)
 - [Visualization of a fully connected neural network (MNIST)](https://www.youtube.com/watch?v=sDDjJRnnHao)
 - [Yann LeCun - Convolutional Network Demo from 1989 (MNIST)](https://www.youtube.com/watch?v=FwFduRA_L6Q)
-
-**word2vec**
-
-- [Jake Tae - Word2vec from Scratch](https://jaketae.github.io/study/word2vec/)
-- [JosephSBoyle/skip\_gram](https://github.com/JosephSBoyle/skip_gram)
-- [Joshua T. Goodman - A Bit of Progress in Language Modeling (2008)](https://arxiv.org/pdf/cs/0108005)
-- [Tomas Mikolov - Natural Language Processing Lecture (2020)](https://www.youtube.com/watch?v=tX_D97Vf08k)
-- [Tomas Mikolov - Test of Time Award at NeurIPS (Facebook post)](https://news.ycombinator.com/item?id=38654038)
-- [Word2Vec Research Paper Explained](https://towardsdatascience.com/word2vec-research-paper-explained-205cb7eecc30)
-- [tmikolov/word2vec](https://github.com/tmikolov/word2vec)
