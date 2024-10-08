@@ -179,6 +179,7 @@
 - [Tomas Mikolov - Natural Language Processing Lecture (2020)](https://www.youtube.com/watch?v=tX_D97Vf08k)
 - [Tomas Mikolov - Statistical Language Models Based on Neural Networks (2012, slides)](http://www.fit.vutbr.cz/~imikolov/rnnlm/google.pdf)
 - [Tomas Mikolov - Statistical Language Models Based on Neural Networks (2012, thesis)](https://www.fit.vut.cz/study/phd-thesis-file/283/283.pdf)
+- [Tomas Mikolov - Subword Language Modeling with Neural Networks](http://www.fit.vutbr.cz/~imikolov/rnnlm/char.pdf)
 - [Tomas Mikolov - Test of Time Award at NeurIPS (Facebook post)](https://news.ycombinator.com/item?id=38654038)
 - [Word2Vec Research Paper Explained](https://towardsdatascience.com/word2vec-research-paper-explained-205cb7eecc30)
 - [tmikolov/word2vec](https://github.com/tmikolov/word2vec)
