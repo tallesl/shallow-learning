@@ -194,7 +194,10 @@
 
 **word2vec**
 
+- [Jake Tae - Word2vec from Scratch](https://jaketae.github.io/study/word2vec/)
+- [JosephSBoyle/skip\_gram](https://github.com/JosephSBoyle/skip_gram)
 - [Joshua T. Goodman - A Bit of Progress in Language Modeling (2008)](https://arxiv.org/pdf/cs/0108005)
 - [Tomas Mikolov - Natural Language Processing Lecture (2020)](https://www.youtube.com/watch?v=tX_D97Vf08k)
 - [Tomas Mikolov - Test of Time Award at NeurIPS (Facebook post)](https://news.ycombinator.com/item?id=38654038)
 - [Word2Vec Research Paper Explained](https://towardsdatascience.com/word2vec-research-paper-explained-205cb7eecc30)
+- [tmikolov/word2vec](https://github.com/tmikolov/word2vec)
