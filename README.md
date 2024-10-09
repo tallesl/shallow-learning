@@ -1,12 +1,15 @@
 **Brazil**
 
 - [Aprendizado em Redes Neurais Profundas (UFV)](https://ufv-inf721.lucasnferreira.com/)
+- [BotBot](https://www.botbot.bot/)
 - [Cabrita](https://github.com/22-hours/cabrita)
 - [Curso Deep Learning em Python (PUC Rio)](https://ica.ele.puc-rio.br/cursos/deep-learning-em-python/)
 - [Deep Learning (UFG)](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB)
 - [IA para o Bem de Todos](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/cct/legislacao/arquivos/IA_para_o_Bem_de_Todos.pdf)
 - [Maritaca AI](https://www.maritaca.ai/)
+- [Open Portuguese LLM Leaderboard](https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard)
 - [Sabiá-2: A New Generation of Portuguese Large Language Models](https://arxiv.org/pdf/2403.09887)
+- [maritaca-ai/sabia-7b](https://huggingface.co/maritaca-ai/sabia-7b)
 
 **Byte Pair Encoding (BPE)**
 
