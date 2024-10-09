@@ -152,6 +152,14 @@
 - [Tomáš Mikolov - Deep Learning in NLP and Beyond](https://www.youtube.com/watch?v=zAJdS-nBdL0)
 - [Yoshua Bengio - Recurrent Neural Networks](https://www.youtube.com/watch?v=AYku9C9XoB8)
 
+**t-distributed stochastic neighbor embedding (t-SNE)**
+
+- [CannyLab/tsne-cuda](https://github.com/CannyLab/tsne-cuda)
+- [Distill - How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+- [Laurens van der Maaten - Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80Gg3lA)
+- [Simon Carbonnoelle - Visualizing Data using t-SNE](https://sites.uclouvain.be/ispgroup/uploads/ISPS/slides_120516.pdf)
+- [sklearn.manifold.TSNE](https://scikit-learn.org/dev/modules/generated/sklearn.manifold.TSNE.html)
+
 **Text prediction**
 
 - [Andrej Karpathy - Recurrent Neural Networks & Long Short-Term Memory](https://www.youtube.com/watch?v=qPcCk1V1JO8)
