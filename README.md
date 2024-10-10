@@ -2,6 +2,7 @@
 
 - [Aprendizado em Redes Neurais Profundas (UFV)](https://ufv-inf721.lucasnferreira.com/)
 - [BotBot](https://www.botbot.bot/)
+- [Brasileiras em PLN](https://brasileiraspln.com/)
 - [Cabrita](https://github.com/22-hours/cabrita)
 - [Curso Deep Learning em Python (PUC Rio)](https://ica.ele.puc-rio.br/cursos/deep-learning-em-python/)
 - [Deep Learning (UFG)](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB)
