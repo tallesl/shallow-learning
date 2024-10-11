@@ -34,6 +34,14 @@
 - [Geoffrey Hinton - Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)
 - [Machine Learning Crash Course (Google for Developers)](https://developers.google.com/machine-learning/crash-course)
 
+**Dark Knowledge**
+
+- ["Knowledge Distillation" Explanation and Implementation](https://www.youtube.com/watch?v=9guKFI_yVNc)
+- [Geoffrey Hinton - Dark Knowledge (slides)](https://www.ttic.edu/dl/dark14.pdf)
+- [Geoffrey Hinton - Dark Knowledge (video)](https://www.youtube.com/watch?v=F5gXXubLo9s)
+- [Geoffrey Hinton - Distilling the Knowledge in a Neural Network (2015)](https://arxiv.org/pdf/1503.02531)
+- [Kullback–Leibler divergence (distance between two probability distributions)](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
+
 **Datasets**
 
 - [BlogSet-BR (Blogspot)](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br/)
