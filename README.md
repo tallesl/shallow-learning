@@ -1,5 +1,6 @@
 **Brazil**
 
+- [Acordo Ortográfico da Língua Portuguesa](https://academia.org.br/sites/default/files/conteudo/o_acordo_ortogr_fico_da_lngua_portuguesa_anexoi_e_ii.pdf)
 - [Aprendizado em Redes Neurais Profundas (UFV)](https://ufv-inf721.lucasnferreira.com/)
 - [BotBot](https://www.botbot.bot/)
 - [Brasileiras em PLN](https://brasileiraspln.com/)
@@ -9,6 +10,7 @@
 - [IA para o Bem de Todos](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/cct/legislacao/arquivos/IA_para_o_Bem_de_Todos.pdf)
 - [Maritaca AI](https://www.maritaca.ai/)
 - [Open Portuguese LLM Leaderboard](https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard)
+- [Regras para divisão silábica](https://michaelis.uol.com.br/moderno-portugues/nocoes-gramaticais/regras-para-divisao-silabica/)
 - [Sabiá-2: A New Generation of Portuguese Large Language Models](https://arxiv.org/pdf/2403.09887)
 - [maritaca-ai/sabia-7b](https://huggingface.co/maritaca-ai/sabia-7b)
 
