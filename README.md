@@ -194,6 +194,7 @@
 
 **Tomas Mikolov**
 
+- [Chris McCormick - word2vec\_commented](https://github.com/chrisjmccormick)
 - [Hendrik Heuer - word2vec from theory to practice](http://hen-drik.de/pub/Heuer%20-%20word2vec%20-%20From%20theory%20to%20practice.pdf)
 - [Jake Tae - Word2vec from Scratch](https://jaketae.github.io/study/word2vec/)
 - [JosephSBoyle/skip\_gram](https://github.com/JosephSBoyle/skip_gram)
