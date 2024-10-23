@@ -82,6 +82,10 @@
 - [Sebastian Raschka -  Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 - [Thom Wolf - A little guide to building Large Language Models in 2024](https://www.youtube.com/watch?v=2-SPH9hIKT8)
 
+**Math**
+
+- [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+
 **Miscellanea**
 
 - [GPT1 paper annotated](https://github.com/shreyansh26/Annotated-ML-Papers/blob/main/GPT1.pdf)
