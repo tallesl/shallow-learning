@@ -1,3 +1,11 @@
+**1-bit LLMs**
+
+- [Fine-tuning LLMs to 1.58bit: extreme quantization made easy](https://huggingface.co/blog/1_58_llm_extreme_quantization)
+- [Hugging Face 1Bit LLMs Community](https://huggingface.co/HF1BitLLM)
+- [Hugging Face 1bitLLM](https://huggingface.co/1bitLLM)
+- [microsoft/BitNet](https://github.com/microsoft/BitNet)
+- [microsoft/T-MAC](https://github.com/microsoft/T-MAC)
+
 **Brazil**
 
 - [Acordo Ortográfico da Língua Portuguesa](https://academia.org.br/sites/default/files/conteudo/o_acordo_ortogr_fico_da_lngua_portuguesa_anexoi_e_ii.pdf)
