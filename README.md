@@ -6,6 +6,15 @@
 - [microsoft/BitNet](https://github.com/microsoft/BitNet)
 - [microsoft/T-MAC](https://github.com/microsoft/T-MAC)
 
+**Arvind Neelakantan**
+
+- [Arvind Neelakantan - Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space](https://www.youtube.com/watch?v=EeBj4TyW8B8)
+- [Arvind Neelakantan - Text and Code Embeddings](https://www.youtube.com/watch?v=xlm5Rb0EGWs)
+- [Arvind Neelakantan - Introduction to Text and Code Embeddings in the OpenAI API](https://www.youtube.com/watch?v=mnTV_TIkf9M)
+- [Arvind Neelakantan - Knowledge Representation And Reasoning With Deep Neural Networks](https://www.youtube.com/watch?v=lc68_d_DnYs)
+- [Arvind Neelakantan - ]()
+- [Arvind Neelakantan - ]()
+
 **Brazil**
 
 - [Acordo Ortográfico da Língua Portuguesa](https://academia.org.br/sites/default/files/conteudo/o_acordo_ortogr_fico_da_lngua_portuguesa_anexoi_e_ii.pdf)
@@ -21,14 +30,6 @@
 - [Regras para divisão silábica](https://michaelis.uol.com.br/moderno-portugues/nocoes-gramaticais/regras-para-divisao-silabica/)
 - [Sabiá-2: A New Generation of Portuguese Large Language Models](https://arxiv.org/pdf/2403.09887)
 - [maritaca-ai/sabia-7b](https://huggingface.co/maritaca-ai/sabia-7b)
-
-**Byte Pair Encoding (BPE)**
-
-- [BPE pseudocode](http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM#0045_0026)
-- [BPE video demo](https://www.youtube.com/watch?v=HEikzVL-lZU)
-- [Karpathy implementation](https://github.com/karpathy/minbpe)
-- [OpenAI implementation](https://github.com/openai/tiktoken)
-- [OpenAI online tokenizer](https://platform.openai.com/tokenizer)
 
 **Book club**
 
@@ -61,6 +62,23 @@
 - [Ngram (Wikipedia)](https://nlp.cs.nyu.edu/wikipedia-data/)
 - [The Pile (800GB of diverse text)](https://pile.eleuther.ai/)
 - [TinyStories (synthetic short stories)](https://huggingface.co/datasets/roneneldan/TinyStories)
+
+**Dimensionality reduction (PCA, LSA, t-SNE, UMAP, ...)**
+
+- [CannyLab/tsne-cuda](https://github.com/CannyLab/tsne-cuda)
+- [Distill - How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+- [Laurens van der Maaten - Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80Gg3lA)
+- [Simon Carbonnoelle - Visualizing Data using t-SNE](https://sites.uclouvain.be/ispgroup/uploads/ISPS/slides_120516.pdf)
+- [sklearn.manifold.TSNE](https://scikit-learn.org/dev/modules/generated/sklearn.manifold.TSNE.html)
+
+**Discovering sentiment**
+
+- [Alec Radford, Rafal Jozefowicz, Ilya Sutskever - Learning to Generate Reviews and Discovering Sentiment (2017)](https://arxiv.org/abs/1704.01444)
+- [Andrej Karpathy, Justin Johnson, Li Fei-Fei - Visualizing and Understanding Recurrent Networks (2015)](https://arxiv.org/abs/1506.02078)
+- [The unreasonable effectiveness of one neuron](https://rakeshchada.github.io/Sentiment-Neuron.html)
+- [Unsupervised sentiment neuron](https://openai.com/index/unsupervised-sentiment-neuron/)
+- [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment)
+- [rakeshchada/generating-reviews-discovering-sentiment](https://github.com/rakeshchada/generating-reviews-discovering-sentiment/blob/95a1933/Sentiment-Neuron-Yelp.ipynb)
 
 **Dying ReLU**
 
@@ -105,6 +123,12 @@
 - [Michael Castelle - Deep Learning as an Epistemic Ensemble](https://castelle.org/pages/deep-learning-as-an-epistemic-ensemble.html)
 - [Why did Marvin Minsky claim the multilayer perceptron wasn’t likely going to work?](https://www.quora.com/Why-did-Marvin-Minsky-claim-the-multilayer-perceptron-wasn-t-likely-going-to-work-without-giving-much-evidence-Is-isn-t-intuitvely-obvious-that-multilayer-perceptron-could-overcome-the-limitations-of-single-layer)
 
+**OpenAI GPT1**
+
+- [Alec Radford - Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- [openai-community/openai-gpt (Hugging Face)](https://huggingface.co/openai-community/openai-gpt)
+- [openai/finetune-transformer-lm (GitHub)](https://github.com/openai/finetune-transformer-lm)
+
 **Prompt engineering**
 
 - [The Prompt Report: A Systematic Survey of Prompting Techniques (2024)](https://arxiv.org/abs/2406.06608)
@@ -131,13 +155,10 @@
 - [Machine Learning Spotlight I: Investigating Recurrent Neural Networks](https://medium.com/@SAPCAI/machine-learning-spotlight-i-investigating-recurrent-neural-networks-40a84067e916)
 - [Were RNNs All We Needed? (2024)](https://arxiv.org/pdf/2410.01201)
 
-**Recurrent neural networks visualization**
+**Reinforcement Learning from Human Feedback (RLHF)**
 
-- [Alec Radford, Rafal Jozefowicz, Ilya Sutskever - Learning to Generate Reviews and Discovering Sentiment (2017)](https://arxiv.org/abs/1704.01444)
-- [Andrej Karpathy, Justin Johnson, Li Fei-Fei - Visualizing and Understanding Recurrent Networks (2015)](https://arxiv.org/abs/1506.02078)
-- [The unreasonable effectiveness of one neuron](https://rakeshchada.github.io/Sentiment-Neuron.html)
-- [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment)
-- [rakeshchada/generating-reviews-discovering-sentiment](https://github.com/rakeshchada/generating-reviews-discovering-sentiment/blob/95a1933/Sentiment-Neuron-Yelp.ipynb)
+- [Training language models to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
+- [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332)
 
 **Retrieval-Augmented Generation (RAG)**
 
@@ -175,14 +196,6 @@
 - [Tomáš Mikolov - Deep Learning in NLP and Beyond](https://www.youtube.com/watch?v=zAJdS-nBdL0)
 - [Yoshua Bengio - Recurrent Neural Networks](https://www.youtube.com/watch?v=AYku9C9XoB8)
 
-**Dimensionality reduction (PCA, LSA, t-SNE, UMAP, ...)**
-
-- [CannyLab/tsne-cuda](https://github.com/CannyLab/tsne-cuda)
-- [Distill - How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
-- [Laurens van der Maaten - Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80Gg3lA)
-- [Simon Carbonnoelle - Visualizing Data using t-SNE](https://sites.uclouvain.be/ispgroup/uploads/ISPS/slides_120516.pdf)
-- [sklearn.manifold.TSNE](https://scikit-learn.org/dev/modules/generated/sklearn.manifold.TSNE.html)
-
 **Text prediction**
 
 - [Andrej Karpathy - Recurrent Neural Networks & Long Short-Term Memory](https://www.youtube.com/watch?v=qPcCk1V1JO8)
@@ -203,6 +216,15 @@
 - [Visual Guide to Transformer Neural Networks (video)](https://www.youtube.com/watch?v=dichIcUZfOw)
 - [What if we drop the causal mask in auto-regressive Transformer? (Stack Exchange)](https://ai.stackexchange.com/q/40917/87091)
 - [Why are embeddings added, not concatenated? (Stack Exchange)](https://ai.stackexchange.com/q/35990/87091)
+
+**Tokenization**
+
+- [BPE pseudocode](http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM#0045_0026)
+- [BPE video demo](https://www.youtube.com/watch?v=HEikzVL-lZU)
+- [Karpathy BPE implementation](https://github.com/karpathy/minbpe)
+- [OpenAI BPE implementation](https://github.com/openai/tiktoken)
+- [OpenAI online tokenizer](https://platform.openai.com/tokenizer)
+- [Sam Gbafa - Words to Bytes: Exploring Language Tokenizations](https://www.youtube.com/watch?v=TsFLqbiim4M)
 
 **Tomas Mikolov**
 
