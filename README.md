@@ -3,17 +3,16 @@
 - [Fine-tuning LLMs to 1.58bit: extreme quantization made easy](https://huggingface.co/blog/1_58_llm_extreme_quantization)
 - [Hugging Face 1Bit LLMs Community](https://huggingface.co/HF1BitLLM)
 - [Hugging Face 1bitLLM](https://huggingface.co/1bitLLM)
+- [bitnet.cpp from Microsoft: Run LLMs locally on CPU! (hands-on)](https://www.youtube.com/watch?v=C4OYJAs4O60)
 - [microsoft/BitNet](https://github.com/microsoft/BitNet)
 - [microsoft/T-MAC](https://github.com/microsoft/T-MAC)
 
 **Arvind Neelakantan**
 
 - [Arvind Neelakantan - Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space](https://www.youtube.com/watch?v=EeBj4TyW8B8)
-- [Arvind Neelakantan - Text and Code Embeddings](https://www.youtube.com/watch?v=xlm5Rb0EGWs)
 - [Arvind Neelakantan - Introduction to Text and Code Embeddings in the OpenAI API](https://www.youtube.com/watch?v=mnTV_TIkf9M)
 - [Arvind Neelakantan - Knowledge Representation And Reasoning With Deep Neural Networks](https://www.youtube.com/watch?v=lc68_d_DnYs)
-- [Arvind Neelakantan - ]()
-- [Arvind Neelakantan - ]()
+- [Arvind Neelakantan - Text and Code Embeddings](https://www.youtube.com/watch?v=xlm5Rb0EGWs)
 
 **Brazil**
 
@@ -114,9 +113,10 @@
 
 **Miscellanea**
 
-- [GPT1 paper annotated](https://github.com/shreyansh26/Annotated-ML-Papers/blob/main/GPT1.pdf)
 - [AMA Geoffrey Hinton](https://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/)
+- [Alan Turing, Cybernetics and the Secrets of Life](https://www.youtube.com/watch?v=rPLvj-GcfSU)
 - [Andrej Karpathy - A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
+- [ChatGPT: 30 Year History | How AI Learned to Talk](https://www.youtube.com/watch?v=OFS90-FX6pg)
 - [Eliezer Yudkowsky - AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
 - [Jürgen Schmidhuber - Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
 - [Leo Gao - The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
@@ -126,6 +126,7 @@
 **OpenAI GPT1**
 
 - [Alec Radford - Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- [GPT1 paper annotated](https://github.com/shreyansh26/Annotated-ML-Papers/blob/main/GPT1.pdf)
 - [openai-community/openai-gpt (Hugging Face)](https://huggingface.co/openai-community/openai-gpt)
 - [openai/finetune-transformer-lm (GitHub)](https://github.com/openai/finetune-transformer-lm)
 
@@ -154,6 +155,7 @@
 - [Ilya Sutskever, James Martens, Geoffrey Hinton - Generating Text with Recurrent Neural Networks (2011)](https://icml.cc/2011/papers/524_icmlpaper.pdf)
 - [Machine Learning Spotlight I: Investigating Recurrent Neural Networks](https://medium.com/@SAPCAI/machine-learning-spotlight-i-investigating-recurrent-neural-networks-40a84067e916)
 - [Were RNNs All We Needed? (2024)](https://arxiv.org/pdf/2410.01201)
+- [XLSTM - Extended LSTMs with sLSTM and mLSTM (paper explained)](https://www.youtube.com/watch?v=0aWGTNS03PU)
 
 **Reinforcement Learning from Human Feedback (RLHF)**
 
