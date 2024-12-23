@@ -62,6 +62,15 @@
 - [The Pile (800GB of diverse text)](https://pile.eleuther.ai/)
 - [TinyStories (synthetic short stories)](https://huggingface.co/datasets/roneneldan/TinyStories)
 
+**Debugging**
+
+- [Andrej Karpathy - A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
+- [CS 230 -  Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
+- [OpenAI - Techniques for training large neural networks](https://openai.com/index/techniques-for-training-large-neural-networks)
+- [StackOverflow - Neural network always predict the same class](https://stackoverflow.com/a/41493375)
+- [Yann LeCun - Efficient BackProp](https://cseweb.ucsd.edu/classes/wi08/cse253/Handouts/lecun-98b.pdf)
+- [Yoshua Bengio - Practical Recommendations for Gradient-Based Training of Deep Architetures](https://arxiv.org/pdf/1206.5533)
+
 **Dimensionality reduction (PCA, LSA, t-SNE, UMAP, ...)**
 
 - [CannyLab/tsne-cuda](https://github.com/CannyLab/tsne-cuda)
@@ -115,7 +124,6 @@
 
 - [AMA Geoffrey Hinton](https://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/)
 - [Alan Turing, Cybernetics and the Secrets of Life](https://www.youtube.com/watch?v=rPLvj-GcfSU)
-- [Andrej Karpathy - A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 - [ChatGPT: 30 Year History | How AI Learned to Talk](https://www.youtube.com/watch?v=OFS90-FX6pg)
 - [Eliezer Yudkowsky - AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
 - [Jürgen Schmidhuber - Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
