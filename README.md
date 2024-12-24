@@ -124,6 +124,7 @@
 
 - [AMA Geoffrey Hinton](https://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/)
 - [Alan Turing, Cybernetics and the Secrets of Life](https://www.youtube.com/watch?v=rPLvj-GcfSU)
+- [Calculating the Number of flops for a given Neural Network?](https://stackoverflow.com/q/55831235)
 - [ChatGPT: 30 Year History | How AI Learned to Talk](https://www.youtube.com/watch?v=OFS90-FX6pg)
 - [Eliezer Yudkowsky - AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
 - [Jürgen Schmidhuber - Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
