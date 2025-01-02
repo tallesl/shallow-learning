@@ -41,6 +41,7 @@
 
 - [Andrej Karpathy - CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 - [Andrej Karpathy - Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+- [Dan Jurafsky, Chris Manning, Isabel Papadimitriou - History of Natural Language Processing](https://web.stanford.edu/class/cs324h/)
 - [Geoffrey Hinton - Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)
 - [Machine Learning Crash Course (Google for Developers)](https://developers.google.com/machine-learning/crash-course)
 
@@ -127,7 +128,9 @@
 - [Calculating the Number of flops for a given Neural Network?](https://stackoverflow.com/q/55831235)
 - [ChatGPT: 30 Year History | How AI Learned to Talk](https://www.youtube.com/watch?v=OFS90-FX6pg)
 - [Eliezer Yudkowsky - AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
+- [Grammar as a Foreign Language (2015)](https://arxiv.org/pdf/1412.7449)
 - [Jürgen Schmidhuber - Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
+- [Large Language Models in Machine Translation (2007)](https://aclanthology.org/D07-1090.pdf)
 - [Leo Gao - The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 - [Michael Castelle - Deep Learning as an Epistemic Ensemble](https://castelle.org/pages/deep-learning-as-an-epistemic-ensemble.html)
 - [Why did Marvin Minsky claim the multilayer perceptron wasn’t likely going to work?](https://www.quora.com/Why-did-Marvin-Minsky-claim-the-multilayer-perceptron-wasn-t-likely-going-to-work-without-giving-much-evidence-Is-isn-t-intuitvely-obvious-that-multilayer-perceptron-could-overcome-the-limitations-of-single-layer)
