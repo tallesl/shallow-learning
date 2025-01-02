@@ -58,6 +58,7 @@
 - [BlogSet-BR (Blogspot)](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br/)
 - [Common Crawl (250 billion pages)](https://commoncrawl.org/latest-crawl)
 - [DBpedia (Wikipedia)](https://databus.dbpedia.org/dbpedia/collections/latest-core)
+- [Dump of Simple English Wiki](https://github.com/LGDoor/Dump-of-Simple-English-Wiki)
 - [Form Understanding in Noisy Scanned Documents (FUNSD)](https://guillaumejaume.github.io/FUNSD/)
 - [Ngram (Wikipedia)](https://nlp.cs.nyu.edu/wikipedia-data/)
 - [The Pile (800GB of diverse text)](https://pile.eleuther.ai/)
