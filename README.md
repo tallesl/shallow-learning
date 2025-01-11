@@ -134,6 +134,8 @@
 - [Large Language Models in Machine Translation (2007)](https://aclanthology.org/D07-1090.pdf)
 - [Leo Gao - The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 - [Michael Castelle - Deep Learning as an Epistemic Ensemble](https://castelle.org/pages/deep-learning-as-an-epistemic-ensemble.html)
+- [RWKV Language Model (RNN)](https://www.rwkv.com)
+- [Visualize and understand GPU memory in PyTorch](https://huggingface.co/blog/train_memory)
 - [Why did Marvin Minsky claim the multilayer perceptron wasn’t likely going to work?](https://www.quora.com/Why-did-Marvin-Minsky-claim-the-multilayer-perceptron-wasn-t-likely-going-to-work-without-giving-much-evidence-Is-isn-t-intuitvely-obvious-that-multilayer-perceptron-could-overcome-the-limitations-of-single-layer)
 - [calflops: a FLOPs and Params calculate tool for neural networks](https://github.com/MrYxJ/calculate-flops.pytorch)
 
