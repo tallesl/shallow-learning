@@ -39,6 +39,8 @@
 **Classical NLP**
 
 - [Dan Jurafsky, Chris Manning, Isabel Papadimitriou - History of Natural Language Processing](https://web.stanford.edu/class/cs324h/)
+- [Deep Learning for NLP without Magic (slides)](https://nlp.stanford.edu/~socherr/SocherBengioManning-DeepLearning-ACL2012-20120707-NoMargin.pdf)
+- [Deep Learning for NLP without Magic (video)](https://www.youtube.com/playlist?list=PL4617D0E28A5781B0)
 
 **Courses**
 
@@ -111,7 +113,10 @@
 
 **Math**
 
+- [Claude Lemaréchal - Cauchy and the Gradient Method](http://www.kurims.kyoto-u.ac.jp/EMIS/journals/DMJDMV/vol-ismp/40_lemarechal-claude.pdf)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+- [Pedro Roberto de Lima - O Nascimento das Equações Diferenciais](https://rmu.sbm.org.br/wp-content/uploads/sites/11/sites/11/2024/09/Artigo3_RMU-.pdf)
+- [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 **Miscellanea**
 
