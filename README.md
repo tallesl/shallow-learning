@@ -21,7 +21,6 @@
 - [BotBot](https://www.botbot.bot/)
 - [Brasileiras em PLN](https://brasileiraspln.com/)
 - [Cabrita](https://github.com/22-hours/cabrita)
-- [Curso Deep Learning em Python (PUC Rio)](https://ica.ele.puc-rio.br/cursos/deep-learning-em-python/)
 - [Deep Learning (UFG)](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB)
 - [IA para o Bem de Todos](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/cct/legislacao/arquivos/IA_para_o_Bem_de_Todos.pdf)
 - [Maritaca AI](https://www.maritaca.ai/)
@@ -37,11 +36,12 @@
 - [Dive into Deep Learning](https://www.youtube.com/playlist?list=PLGSHbNsNO4ViFXawDmx-kEz7zGziOpNSb)
 - [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://www.youtube.com/playlist?list=PLheFoa5iXad7r2AhM3mwGr3t_GUGumQC2)
 
+**Classical NLP**
+
+- [Dan Jurafsky, Chris Manning, Isabel Papadimitriou - History of Natural Language Processing](https://web.stanford.edu/class/cs324h/)
+
 **Courses**
 
-- [Andrej Karpathy - CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
-- [Andrej Karpathy - Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
-- [Dan Jurafsky, Chris Manning, Isabel Papadimitriou - History of Natural Language Processing](https://web.stanford.edu/class/cs324h/)
 - [Geoffrey Hinton - Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)
 - [Machine Learning Crash Course (Google for Developers)](https://developers.google.com/machine-learning/crash-course)
 
@@ -79,7 +79,6 @@
 - [Distill - How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 - [Laurens van der Maaten - Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80Gg3lA)
 - [Simon Carbonnoelle - Visualizing Data using t-SNE](https://sites.uclouvain.be/ispgroup/uploads/ISPS/slides_120516.pdf)
-- [sklearn.manifold.TSNE](https://scikit-learn.org/dev/modules/generated/sklearn.manifold.TSNE.html)
 
 **Discovering sentiment**
 
@@ -100,13 +99,6 @@
 - [What Is Resizable BAR on a GPU, and Should You Use It?](https://www.howtogeek.com/819578/what-is-resizable-bar-on-a-gpu/)
 - [What is XMP or DOCP and how to enable it?](https://www.nicehash.com/blog/post/what-is-xmp-or-docp-and-how-to-enable-it)
 
-**Inference libraries**
-
-- [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy)
-- [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2)
-- [inferflow/inferflow](https://github.com/inferflow/inferflow)
-- [turboderp/exllamav2](https://github.com/turboderp/exllamav2)
-
 **Jobs**
 
 - [aijobs.ai](https://aijobs.ai/)
@@ -115,7 +107,6 @@
 
 **LLM training**
 
-- [Sebastian Raschka -  Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 - [Thom Wolf - A little guide to building Large Language Models in 2024](https://www.youtube.com/watch?v=2-SPH9hIKT8)
 
 **Math**
@@ -128,7 +119,6 @@
 - [Alan Turing, Cybernetics and the Secrets of Life](https://www.youtube.com/watch?v=rPLvj-GcfSU)
 - [Calculating the Number of flops for a given Neural Network?](https://stackoverflow.com/q/55831235)
 - [ChatGPT: 30 Year History | How AI Learned to Talk](https://www.youtube.com/watch?v=OFS90-FX6pg)
-- [Eliezer Yudkowsky - AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
 - [Grammar as a Foreign Language (2015)](https://arxiv.org/pdf/1412.7449)
 - [Jürgen Schmidhuber - Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
 - [Large Language Models in Machine Translation (2007)](https://aclanthology.org/D07-1090.pdf)
@@ -155,11 +145,10 @@
 - [Common Gotchas](https://docs.python-guide.org/writing/gotchas/)
 - [Dead Simple Python](https://www.google.com/books/edition/Dead_Simple_Python/MPBmEAAAQBAJ)
 - [Fluent Python](https://www.google.com/books/edition/Fluent_Python/bIZHCgAAQBAJ)
-- [LMQL (programming language for LLMs)](https://github.com/eth-sri/lmql)
 - [PyOxidizer (executable with embedded Python)](https://github.com/indygreg/PyOxidizer)
 - [Wait, IPython Can Do That?!](https://switowski.com/blog/wait-ipython-can-do-that/)
 - [objexplore (CLI object inspecting)](https://github.com/kylepollina/objexplore)
-- [pudb (nicer CLI debugger)](https://github.com/inducer/pudb)
+- [pudb (CLI debugger)](https://github.com/inducer/pudb)
 
 **Quantization**
 
@@ -173,30 +162,17 @@
 - [Were RNNs All We Needed? (2024)](https://arxiv.org/pdf/2410.01201)
 - [XLSTM - Extended LSTMs with sLSTM and mLSTM (paper explained)](https://www.youtube.com/watch?v=0aWGTNS03PU)
 
-**Reinforcement Learning from Human Feedback (RLHF)**
-
-- [Training language models to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
-- [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332)
-
 **Retrieval-Augmented Generation (RAG)**
 
+- [Building a better repository map with tree sitter](https://aider.chat/2023/10/22/repomap.html)
 - [DataLine](https://github.com/RamiAwar/dataline)
 - [Verba](https://github.com/weaviate/Verba)
 - [anything-llm/collector/processSingleFile/convert/](https://github.com/Mintplex-Labs/anything-llm/tree/9b86bbd/collector/processSingleFile/convert)
-
-**Source code analysis**
-
-- [Building a better repository map with tree sitter](https://aider.chat/2023/10/22/repomap.html)
 - [codeqai](https://github.com/fynnfluegge/codeqai)
 
 **Snippets**
 
 - [def seed\_everything](https://github.com/ai-forever/ru-dalle/blob/e96631a/rudalle/utils.py#L10-L17)
-
-**Structured output**
-
-- [llama.cpp formal grammar](https://github.com/ggerganov/llama.cpp/blob/master/grammars/README.md)
-- [outlines-dev/outlines](https://github.com/outlines-dev/outlines)
 
 **Talks**
 
