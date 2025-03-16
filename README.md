@@ -1,18 +1,9 @@
-**1-bit LLMs**
-
-- [Fine-tuning LLMs to 1.58bit: extreme quantization made easy](https://huggingface.co/blog/1_58_llm_extreme_quantization)
-- [Hugging Face 1Bit LLMs Community](https://huggingface.co/HF1BitLLM)
-- [Hugging Face 1bitLLM](https://huggingface.co/1bitLLM)
-- [bitnet.cpp from Microsoft: Run LLMs locally on CPU! (hands-on)](https://www.youtube.com/watch?v=C4OYJAs4O60)
-- [microsoft/BitNet](https://github.com/microsoft/BitNet)
-- [microsoft/T-MAC](https://github.com/microsoft/T-MAC)
-
 **Arvind Neelakantan**
 
-- [Arvind Neelakantan - Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space](https://www.youtube.com/watch?v=EeBj4TyW8B8)
-- [Arvind Neelakantan - Introduction to Text and Code Embeddings in the OpenAI API](https://www.youtube.com/watch?v=mnTV_TIkf9M)
-- [Arvind Neelakantan - Knowledge Representation And Reasoning With Deep Neural Networks](https://www.youtube.com/watch?v=lc68_d_DnYs)
-- [Arvind Neelakantan - Text and Code Embeddings](https://www.youtube.com/watch?v=xlm5Rb0EGWs)
+- [Arvind Neelakantan - Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space (video)](https://www.youtube.com/watch?v=EeBj4TyW8B8)
+- [Arvind Neelakantan - Introduction to Text and Code Embeddings in the OpenAI API (video)](https://www.youtube.com/watch?v=mnTV_TIkf9M)
+- [Arvind Neelakantan - Knowledge Representation And Reasoning With Deep Neural Networks(video)](https://www.youtube.com/watch?v=lc68_d_DnYs)
+- [Arvind Neelakantan - Text and Code Embeddings (video)](https://www.youtube.com/watch?v=xlm5Rb0EGWs)
 
 **Brazil**
 
@@ -21,7 +12,7 @@
 - [BotBot](https://www.botbot.bot/)
 - [Brasileiras em PLN](https://brasileiraspln.com/)
 - [Cabrita](https://github.com/22-hours/cabrita)
-- [Deep Learning (UFG)](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB)
+- [Deep Learning (UFG) (video)](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB)
 - [IA para o Bem de Todos](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/cct/legislacao/arquivos/IA_para_o_Bem_de_Todos.pdf)
 - [Maritaca AI](https://www.maritaca.ai/)
 - [Open Portuguese LLM Leaderboard](https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard)
@@ -31,10 +22,10 @@
 
 **Book club**
 
-- [Build a Large Language Model](https://www.youtube.com/playlist?list=PLheFoa5iXad7-YWe-Wd7n_1udggti4JiT)
-- [Deep Learning Book by Ian Goodfellow](https://www.youtube.com/playlist?list=PLbBjZEwyU7W1CDs3Vx_GOJ9b3EgYQB3GE)
-- [Dive into Deep Learning](https://www.youtube.com/playlist?list=PLGSHbNsNO4ViFXawDmx-kEz7zGziOpNSb)
-- [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://www.youtube.com/playlist?list=PLheFoa5iXad7r2AhM3mwGr3t_GUGumQC2)
+- [Build a Large Language Model (video)](https://www.youtube.com/playlist?list=PLheFoa5iXad7-YWe-Wd7n_1udggti4JiT)
+- [Deep Learning Book by Ian Goodfellow (video)](https://www.youtube.com/playlist?list=PLbBjZEwyU7W1CDs3Vx_GOJ9b3EgYQB3GE)
+- [Dive into Deep Learning (video)](https://www.youtube.com/playlist?list=PLGSHbNsNO4ViFXawDmx-kEz7zGziOpNSb)
+- [Hands-On Machine Learning with Scikit-Learn & TensorFlow (video)](https://www.youtube.com/playlist?list=PLheFoa5iXad7r2AhM3mwGr3t_GUGumQC2)
 
 **Classical NLP**
 
@@ -44,12 +35,12 @@
 
 **Courses**
 
-- [Geoffrey Hinton - Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)
+- [Geoffrey Hinton - Neural Networks for Machine Learning (video)](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)
 - [Machine Learning Crash Course (Google for Developers)](https://developers.google.com/machine-learning/crash-course)
 
 **Dark Knowledge**
 
-- ["Knowledge Distillation" Explanation and Implementation](https://www.youtube.com/watch?v=9guKFI_yVNc)
+- ["Knowledge Distillation" Explanation and Implementation (video)](https://www.youtube.com/watch?v=9guKFI_yVNc)
 - [Geoffrey Hinton - Dark Knowledge (slides)](https://www.ttic.edu/dl/dark14.pdf)
 - [Geoffrey Hinton - Dark Knowledge (video)](https://www.youtube.com/watch?v=F5gXXubLo9s)
 - [Geoffrey Hinton - Distilling the Knowledge in a Neural Network (2015)](https://arxiv.org/pdf/1503.02531)
@@ -57,7 +48,6 @@
 
 **Datasets**
 
-- [BlogSet-BR (Blogspot)](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br/)
 - [Common Crawl (250 billion pages)](https://commoncrawl.org/latest-crawl)
 - [DBpedia (Wikipedia)](https://databus.dbpedia.org/dbpedia/collections/latest-core)
 - [Dump of Simple English Wiki](https://github.com/LGDoor/Dump-of-Simple-English-Wiki)
@@ -74,13 +64,6 @@
 - [StackOverflow - Neural network always predict the same class](https://stackoverflow.com/a/41493375)
 - [Yann LeCun - Efficient BackProp](https://cseweb.ucsd.edu/classes/wi08/cse253/Handouts/lecun-98b.pdf)
 - [Yoshua Bengio - Practical Recommendations for Gradient-Based Training of Deep Architetures](https://arxiv.org/pdf/1206.5533)
-
-**Dimensionality reduction (PCA, LSA, t-SNE, UMAP, ...)**
-
-- [CannyLab/tsne-cuda](https://github.com/CannyLab/tsne-cuda)
-- [Distill - How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
-- [Laurens van der Maaten - Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80Gg3lA)
-- [Simon Carbonnoelle - Visualizing Data using t-SNE](https://sites.uclouvain.be/ispgroup/uploads/ISPS/slides_120516.pdf)
 
 **Discovering sentiment**
 
@@ -107,10 +90,6 @@
 - [aijobs.net](https://aijobs.net/)
 - [deep learning on arc.dev](https://arc.dev/remote-jobs/deep-learning)
 
-**LLM training**
-
-- [Thom Wolf - A little guide to building Large Language Models in 2024](https://www.youtube.com/watch?v=2-SPH9hIKT8)
-
 **Math**
 
 - [Claude Lemaréchal - Cauchy and the Gradient Method](http://www.kurims.kyoto-u.ac.jp/EMIS/journals/DMJDMV/vol-ismp/40_lemarechal-claude.pdf)
@@ -121,9 +100,9 @@
 **Miscellanea**
 
 - [AMA Geoffrey Hinton](https://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/)
-- [Alan Turing, Cybernetics and the Secrets of Life](https://www.youtube.com/watch?v=rPLvj-GcfSU)
+- [Alan Turing, Cybernetics and the Secrets of Life (video)](https://www.youtube.com/watch?v=rPLvj-GcfSU)
 - [Calculating the Number of flops for a given Neural Network?](https://stackoverflow.com/q/55831235)
-- [ChatGPT: 30 Year History | How AI Learned to Talk](https://www.youtube.com/watch?v=OFS90-FX6pg)
+- [ChatGPT: 30 Year History | How AI Learned to Talk (video)](https://www.youtube.com/watch?v=OFS90-FX6pg)
 - [Grammar as a Foreign Language (2015)](https://arxiv.org/pdf/1412.7449)
 - [Jürgen Schmidhuber - Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
 - [Large Language Models in Machine Translation (2007)](https://aclanthology.org/D07-1090.pdf)
@@ -185,19 +164,19 @@
 - [Andrew Ng - GPU Technology Conference Keynote (2015)](https://video.ibm.com/recorded/60113824)
 - [David Rumelhart - Brainstyle Computation and Learning (1987)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart)
 - [David Rumelhart - Connectionist Learning (1990)](http://thesciencenetwork.org/programs/cogsci-2010/david-rumelhart-1)
-- [Fei-Fei Li on Uncommon Knowledge](https://www.youtube.com/watch?v=10_fZRdCM7Q)
+- [Fei-Fei Li on Uncommon Knowledge (video)](https://www.youtube.com/watch?v=10_fZRdCM7Q)
 - [Geoffrey Hinton - Q&A (AI subjective experience at 16:30, AI rights at 19:40)](https://www.youtube.com/watch?v=PTF5Up1hMhw)
-- [Ilya Sutskever - GPT-2](https://www.youtube.com/watch?v=T0I88NhR_9M)
-- [Ilya Sutskever - Sequence to Sequence Learning with Neural Networks](https://www.youtube.com/watch?v=-uyXE7dY5H0)
-- [Jack Rae - Techniques to Make Language Models More Useful](https://www.youtube.com/watch?v=8krnBzywtbs)
-- [Richard Socher - Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=oGk1v1jQITw)
-- [Richard Socher - Recurrent Neural Networks and Language Models](https://www.youtube.com/watch?v=Keqep_PKrY8)
-- [Tomáš Mikolov - Deep Learning in NLP and Beyond](https://www.youtube.com/watch?v=zAJdS-nBdL0)
-- [Yoshua Bengio - Recurrent Neural Networks](https://www.youtube.com/watch?v=AYku9C9XoB8)
+- [Ilya Sutskever - GPT-2 (video)](https://www.youtube.com/watch?v=T0I88NhR_9M)
+- [Ilya Sutskever - Sequence to Sequence Learning with Neural Networks (video)](https://www.youtube.com/watch?v=-uyXE7dY5H0)
+- [Jack Rae - Techniques to Make Language Models More Useful (video)](https://www.youtube.com/watch?v=8krnBzywtbs)
+- [Richard Socher - Deep Learning for Natural Language Processing (video)](https://www.youtube.com/watch?v=oGk1v1jQITw)
+- [Richard Socher - Recurrent Neural Networks and Language Models (video)](https://www.youtube.com/watch?v=Keqep_PKrY8)
+- [Tomáš Mikolov - Deep Learning in NLP and Beyond (video)](https://www.youtube.com/watch?v=zAJdS-nBdL0)
+- [Yoshua Bengio - Recurrent Neural Networks (video)](https://www.youtube.com/watch?v=AYku9C9XoB8)
 
 **Text prediction**
 
-- [Andrej Karpathy - Recurrent Neural Networks & Long Short-Term Memory](https://www.youtube.com/watch?v=qPcCk1V1JO8)
+- [Andrej Karpathy - Recurrent Neural Networks & Long Short-Term Memory (video)](https://www.youtube.com/watch?v=qPcCk1V1JO8)
 - [Andrej Karpathy - The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Andrej Karpathy - min-char-rnn.py](https://gist.github.com/karpathy/d4dee566867f8291f086)
 - [François Chollet - Character-level text generation with LSTM](https://keras.io/examples/generative/lstm_character_level_text_generation/)
@@ -205,25 +184,12 @@
 - [Kyubyong/word\_prediction (CNN)](https://github.com/Kyubyong/word_prediction)
 - [nikhilbarhate99/Char-RNN-PyTorch](https://github.com/nikhilbarhate99/Char-RNN-PyTorch)
 
-**Transformers**
-
-- [GTC 2024 features the authors of "Attention Is All You Need"](https://www.youtube.com/watch?v=hC_qASRcBhU)
-- [Paper walkthrough (video)](https://www.youtube.com/watch?v=iDulhoQ2pro)
-- [Papers We Love - Attention Is All You Need (video)](https://www.youtube.com/watch?v=TvU3ayIMWpE)
-- [Positional Encoding in Transformer (reddit)](https://www.reddit.com/r/MachineLearning/comments/cttefo/comment/exs7d08/)
-- [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
-- [Visual Guide to Transformer Neural Networks (video)](https://www.youtube.com/watch?v=dichIcUZfOw)
-- [What if we drop the causal mask in auto-regressive Transformer? (Stack Exchange)](https://ai.stackexchange.com/q/40917/87091)
-- [Why are embeddings added, not concatenated? (Stack Exchange)](https://ai.stackexchange.com/q/35990/87091)
-
 **Tokenization**
 
 - [BPE pseudocode](http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM#0045_0026)
-- [BPE video demo](https://www.youtube.com/watch?v=HEikzVL-lZU)
-- [Karpathy BPE implementation](https://github.com/karpathy/minbpe)
-- [OpenAI BPE implementation](https://github.com/openai/tiktoken)
-- [OpenAI online tokenizer](https://platform.openai.com/tokenizer)
-- [Sam Gbafa - Words to Bytes: Exploring Language Tokenizations](https://www.youtube.com/watch?v=TsFLqbiim4M)
+- [Sam Gbafa - Words to Bytes (video)](https://www.youtube.com/watch?v=TsFLqbiim4M)
+- [Moving from Words to Bytes](https://medium.com/samuel-synthesized/moving-from-words-to-bytes-b2a5297c0293)
+
 
 **Tomas Mikolov**
 
@@ -232,7 +198,7 @@
 - [Jake Tae - Word2vec from Scratch](https://jaketae.github.io/study/word2vec/)
 - [JosephSBoyle/skip\_gram](https://github.com/JosephSBoyle/skip_gram)
 - [Joshua T. Goodman - A Bit of Progress in Language Modeling (2008)](https://arxiv.org/pdf/cs/0108005)
-- [Tomas Mikolov - Natural Language Processing Lecture (2020)](https://www.youtube.com/watch?v=tX_D97Vf08k)
+- [Tomas Mikolov - Natural Language Processing Lecture (2020) (video)](https://www.youtube.com/watch?v=tX_D97Vf08k)
 - [Tomas Mikolov - Statistical Language Models Based on Neural Networks (2012, slides)](http://www.fit.vutbr.cz/~imikolov/rnnlm/google.pdf)
 - [Tomas Mikolov - Statistical Language Models Based on Neural Networks (2012, thesis)](https://www.fit.vut.cz/study/phd-thesis-file/283/283.pdf)
 - [Tomas Mikolov - Subword Language Modeling with Neural Networks](http://www.fit.vutbr.cz/~imikolov/rnnlm/char.pdf)
@@ -240,24 +206,15 @@
 - [Word2Vec Research Paper Explained](https://towardsdatascience.com/word2vec-research-paper-explained-205cb7eecc30)
 - [tmikolov/word2vec](https://github.com/tmikolov/word2vec)
 
-**Tools**
-
-- [marimo (git-friendly notebook)](https://marimo.io/)
-
-**Vector databases**
-
-- [Chroma](https://www.trychroma.com/)
-- [sqlite-vec](https://github.com/asg017/sqlite-vec)
-
 **Visualization**
 
-- [Deep Dream I](https://www.youtube.com/watch?v=BsYjsgE76hc)
-- [Deep Dream II](https://www.youtube.com/watch?v=5biMPQOcEy8)
-- [Deep Dream III](https://www.youtube.com/watch?v=srn3tMW9Ges)
+- [Deep Dream I (video)](https://www.youtube.com/watch?v=BsYjsgE76hc)
+- [Deep Dream II (video)](https://www.youtube.com/watch?v=5biMPQOcEy8)
+- [Deep Dream III (video)](https://www.youtube.com/watch?v=srn3tMW9Ges)
 - [Distill](https://distill.pub/)
-- [Geoffrey Hinton - Neural Networks for Machine Learning (MNIST)](https://www.youtube.com/watch?v=uixGgMInc48)
-- [Lukasz Kaiser - Neural GPU Learned Algorithms](https://www.youtube.com/watch?v=LzC8NkTZAF4)
+- [Geoffrey Hinton - Neural Networks for Machine Learning (MNIST) (video)](https://www.youtube.com/watch?v=uixGgMInc48)
+- [Lukasz Kaiser - Neural GPU Learned Algorithms (video)](https://www.youtube.com/watch?v=LzC8NkTZAF4)
 - [OpenAI Microscope](https://microscope.openai.com/)
-- [TensorFlow Playground](http://playground.tensorflow.org/)
-- [Visualization of a fully connected neural network (MNIST)](https://www.youtube.com/watch?v=sDDjJRnnHao)
-- [Yann LeCun - Convolutional Network Demo from 1989 (MNIST)](https://www.youtube.com/watch?v=FwFduRA_L6Q)
+- [TensorFlow Playground (video)](http://playground.tensorflow.org/)
+- [Visualization of a fully connected neural network (MNIST) (video)](https://www.youtube.com/watch?v=sDDjJRnnHao)
+- [Yann LeCun - Convolutional Network Demo from 1989 (MNIST) (video)](https://www.youtube.com/watch?v=FwFduRA_L6Q)
