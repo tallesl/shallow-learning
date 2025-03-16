@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: black;
+      height: 100%;
+      overflow: hidden;
+      font-family: "Courier New", monospace;
+    }
+    canvas {
+      display: block;
+      width: 100%;
+      height: 100%;
+      background: black;
+    }
+  </style>
+</head>
+<body>
+<canvas id="matrix"></canvas>
+<script>
+(function() {
+  // -------------------------------------------------------------------------
+  // CONFIG
+  // -------------------------------------------------------------------------
+  const WEBSOCKET_URL = "ws://localhost:1234/";
+  const FONT_SIZE     = 20;      // px
+  const FADE_ALPHA    = 0.05;    // alpha overlay (0.05 = moderate fade)
+  const TARGET_MS     = 10;      // ~10 ms per update => ~100 fps (if hardware allows)
+
+  // -------------------------------------------------------------------------
+  // CANVAS SETUP
+  // -------------------------------------------------------------------------
+  const canvas = document.getElementById("matrix");
+  const ctx    = canvas.getContext("2d");
+
+  function resizeCanvas() {
+    canvas.width  = window.innerWidth;
+    canvas.height = window.innerHeight;
+  }
+  resizeCanvas();
+  window.addEventListener("resize", resizeCanvas);
+
+  let cols, rows;
+  function recalcGrid() {
+    cols = Math.floor(canvas.width / FONT_SIZE);
+    rows = Math.floor(canvas.height / FONT_SIZE);
+  }
+  recalcGrid();
+  window.addEventListener("resize", recalcGrid);
+
+  // Current drawing position
+  let currentCol = 0;
+  let currentRow = Math.floor(Math.random() * rows);
+
+  // -------------------------------------------------------------------------
+  // WEBSOCKET
+  // -------------------------------------------------------------------------
+  let incomingChars = [];
+
+  const socket = new WebSocket(WEBSOCKET_URL);
+  socket.onopen = () => {
+    console.log("Connected to WebSocket:", WEBSOCKET_URL);
+  };
+  socket.onmessage = (event) => {
+    const msg = event.data.toString();
+
+    // Update title with up to 50 chars
+    document.title = msg.slice(0, 50);
+
+    // Append all incoming chars to our queue
+    incomingChars.push(...msg.split(""));
+  };
+  socket.onerror = (err) => {
+    console.error("WebSocket error:", err);
+  };
+
+  // -------------------------------------------------------------------------
+  // DRAW / FADING
+  // -------------------------------------------------------------------------
+  function drawNextCharacter() {
+    // 1) Fade with semi-transparent black overlay
+    ctx.fillStyle = `rgba(0, 0, 0, ${FADE_ALPHA})`;
+    ctx.globalCompositeOperation = "source-over";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    // 2) Draw next character
+    ctx.fillStyle = "#0F0";
+    ctx.font = `${FONT_SIZE}px "Courier New", monospace`;
+
+    const nextChar = incomingChars.length > 0 ? incomingChars.shift() : " ";
+    const xPos     = currentCol * FONT_SIZE;
+    const yPos     = (currentRow + 1) * FONT_SIZE;
+
+    ctx.fillText(nextChar, xPos, yPos);
+
+    // Move left to right
+    currentCol++;
+    // If we've reached the right edge, pick a new random row
+    if (currentCol >= cols) {
+      currentCol = 0;
+      currentRow = Math.floor(Math.random() * rows);
+    }
+  }
+
+  // -------------------------------------------------------------------------
+  // ANIMATION LOOP: requestAnimationFrame + time-based stepping
+  // -------------------------------------------------------------------------
+  let lastTime = 0;
+  function animate(timestamp) {
+    const delta = timestamp - lastTime;
+
+    // If at least TARGET_MS have passed, do an update
+    if (delta >= TARGET_MS) {
+      drawNextCharacter();
+      lastTime = timestamp;
+    }
+
+    requestAnimationFrame(animate);
+  }
+
+  requestAnimationFrame(animate);
+
+})();
+</script>
+</body>
+</html>
