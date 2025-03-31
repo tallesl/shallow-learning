@@ -5,6 +5,10 @@
 - [Arvind Neelakantan - Knowledge Representation And Reasoning With Deep Neural Networks(video)](https://www.youtube.com/watch?v=lc68_d_DnYs)
 - [Arvind Neelakantan - Text and Code Embeddings (video)](https://www.youtube.com/watch?v=xlm5Rb0EGWs)
 
+**AMD**
+
+- [AITER: AI Tensor Engine For ROCm](https://rocm.blogs.amd.com/software-tools-optimization/aiter%3A-ai-tensor-engine-for-rocm%E2%84%A2/README.html)
+
 **Brazil**
 
 - [Acordo Ortográfico da Língua Portuguesa](https://academia.org.br/sites/default/files/conteudo/o_acordo_ortogr_fico_da_lngua_portuguesa_anexoi_e_ii.pdf)
@@ -95,6 +99,7 @@
 - [Claude Lemaréchal - Cauchy and the Gradient Method](http://www.kurims.kyoto-u.ac.jp/EMIS/journals/DMJDMV/vol-ismp/40_lemarechal-claude.pdf)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
 - [Pedro Roberto de Lima - O Nascimento das Equações Diferenciais](https://rmu.sbm.org.br/wp-content/uploads/sites/11/sites/11/2024/09/Artigo3_RMU-.pdf)
+- [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528)
 - [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 **Miscellanea**
